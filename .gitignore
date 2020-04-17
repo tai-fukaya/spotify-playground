@@ -1,0 +1,13 @@
+data/track
+data/album
+data/artist
+data/csv
+data/tsv
+data/*.tsv
+!data/genre-data.tsv
+**/_old
+**/__pycache__
+
+**/.DS_Store
+.cache-*
+_const.py
