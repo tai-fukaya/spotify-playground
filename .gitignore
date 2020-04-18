@@ -3,7 +3,7 @@ data/album
 data/artist
 data/csv
 data/tsv
-data/*.tsv
+data/**/*.tsv
 !data/genre-data.tsv
 **/_old
 **/__pycache__

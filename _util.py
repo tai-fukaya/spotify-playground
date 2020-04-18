@@ -1,4 +1,5 @@
 import csv
+import datetime
 import glob
 import json
 import os
@@ -32,13 +33,18 @@ def read_tsv(file_path):
     tsv_file = load_file(file_path)
     return [row for row in csv.DictReader(tsv_file.split('\n'), delimiter='\t')]
 
-def download_charts(charts, chart_type, country_code, freq_type):
+def download_charts(charts, chart_type, country_code, freq_type, begin_date=None, end_date=None):
     dir_path = f'data/csv/{chart_type.value}-{freq_type.value}-{country_code}'
     makedirs(dir_path)
     duration_list = charts.get_duration_list(chart_type, country_code, freq_type)
     for d in duration_list:
         name = d.get('name').replace('/', '-')
         code = d.get('code')
+        duration_date = datetime.datetime.strptime(name, '%m-%d-%Y')
+        if begin_date is not None and duration_date < begin_date:
+            continue
+        if end_date is not None and duration_date > end_date:
+            continue
         file_path = f'{dir_path}/{name}.csv'
         if exists(file_path):
             continue
@@ -54,11 +60,16 @@ def get_chart(chart_type, country_code, freq_type, duration):
     charts_csv = load_file(file_path)
     return sc.util.csv_to_list(charts_csv)
 
-def summarize_chart(charts, chart_type, country_code, freq_type):
+def summarize_chart(charts, chart_type, country_code, freq_type, begin_date=None, end_date=None):
     duration_list = charts.get_duration_list(chart_type, country_code, freq_type)
     charts_map = {}
     duration_list.reverse()
     for duration in duration_list:
+        duration_date = datetime.datetime.strptime(duration.get('name'), '%m/%d/%Y')
+        if begin_date is not None and duration_date < begin_date:
+            continue
+        if end_date is not None and duration_date > end_date:
+            continue
         chart_data = get_chart(chart_type, country_code, freq_type, duration)
         for d in chart_data:
             url = d.get('URL')
