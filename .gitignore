@@ -4,6 +4,7 @@ data/artist
 data/csv
 data/tsv
 data/**/*.tsv
+data/**/*.json
 !data/genre-data.tsv
 **/_old
 **/__pycache__

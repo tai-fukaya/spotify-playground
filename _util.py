@@ -116,8 +116,12 @@ def track_map_to_tsv_data(track, artists):
     genres = []
     for a in artists:
             genres.extend(a.get('genres'))
+    # 重複の削除
+    genres = list(set(genres))
     album = track.get('album', {})
     audio_feature = track.get('audio_feature', {})
+    if audio_feature is None:
+        audio_feature = {}
     return {
         'Track Name': track.get('name', ''),
         'Track Id': track.get('id' ''),
