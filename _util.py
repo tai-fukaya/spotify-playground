@@ -281,7 +281,7 @@ class SpotifyDatabase():
             if len(audio_result) > 0:
                 track_result.update({'audio_feature': audio_result[0]})
             save_file(track_file_path, json.dumps(track_result))
-            time.sleep(.1)
+            time.sleep(1/30)
             return track_result
         return None
 
@@ -297,6 +297,7 @@ class SpotifyDatabase():
             print(f'get artist: {artist_id}')
             artist_result = self._client.artist(artist_id)
             save_file(artist_file_path, json.dumps(artist_result))
+            time.sleep(1/30)
             return artist_result
         return None
 
