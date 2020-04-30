@@ -73,6 +73,7 @@ for a in album_list:
                 }
             genre_data['Count'] = 1
             genre_map[g] = genre_data
+    # TODO 全てのtrack情報の取得
     # TODO trackに紐づく、audio_featureの取得
     output_album_list.append({
         'album_type': album.get('album_type'),

@@ -36,8 +36,6 @@ melbourne indie		Australia	au	Oceania	Oceania
 sydney indie		Australia	au	Oceania	Oceania
 austrian jazz		Australia	au	Oceania	Oceania
 australian jazz		Australia	au	Oceania	Oceania
-polynesian pop		French Polynesia	pf	Oceania	Oceania
-tahitian		French Polynesia	pf	Oceania	Oceania
 auckland indie	indie	New Zealand	nz	Oceania	Oceania
 kiwi rock		New Zealand	nz	Oceania	Oceania
 nz christian		New Zealand	nz	Oceania	Oceania
@@ -50,12 +48,13 @@ nz folk		New Zealand	nz	Oceania	Oceania
 nz singer-songwriter		New Zealand	nz	Oceania	Oceania
 christchurch indie		New Zealand	nz	Oceania	Oceania
 nz electronic		New Zealand	nz	Oceania	Oceania
+polynesian pop		French Polynesia	pf	Oceania	Oceania
+tahitian		French Polynesia	pf	Oceania	Oceania
+arab folk				Middle Eastern	Middle Eastern
+arab groove				Middle Eastern	Middle Eastern
+uae indie		United Arab Emirates	ae	Middle Eastern	Middle Eastern
 afghan pop		Afghanistan	af	Middle Eastern	Middle Eastern
 afghan traditional		Afghanistan	af	Middle Eastern	Middle Eastern
-persian alternative		Iran (Islamic Republic of)	ir	Middle Eastern	Middle Eastern
-iranian experimental		Iran (Islamic Republic of)	ir	Middle Eastern	Middle Eastern
-persian neo-traditional		Iran (Islamic Republic of)	ir	Middle Eastern	Middle Eastern
-persian traditional		Iran (Islamic Republic of)	ir	Middle Eastern	Middle Eastern
 classic israeli pop		Israel	il	Middle Eastern	Middle Eastern
 israeli hip hop		Israel	il	Middle Eastern	Middle Eastern
 israeli indie		Israel	il	Middle Eastern	Middle Eastern
@@ -66,6 +65,12 @@ israeli rock		Israel	il	Middle Eastern	Middle Eastern
 israeli singer-songwriter		Israel	il	Middle Eastern	Middle Eastern
 israeli trap		Israel	il	Middle Eastern	Middle Eastern
 israeli techno		Israel	il	Middle Eastern	Middle Eastern
+iraqi pop		Iraq	iq	Middle Eastern	Middle Eastern
+persian alternative		Iran (Islamic Republic of)	ir	Middle Eastern	Middle Eastern
+iranian experimental		Iran (Islamic Republic of)	ir	Middle Eastern	Middle Eastern
+persian neo-traditional		Iran (Islamic Republic of)	ir	Middle Eastern	Middle Eastern
+persian traditional		Iran (Islamic Republic of)	ir	Middle Eastern	Middle Eastern
+jordanian pop		Jordan	jo	Middle Eastern	Middle Eastern
 lebanese indie		Lebanon	lb	Middle Eastern	Middle Eastern
 lebanese pop		Lebanon	lb	Middle Eastern	Middle Eastern
 palestinian pop		Palestine, State of	ps	Middle Eastern	Middle Eastern
@@ -95,7 +100,6 @@ turkish trap pop		Turkey	tr	Middle Eastern	Middle Eastern
 turkish experimental		Turkey	tr	Middle Eastern	Middle Eastern
 mevlevi sufi		Turkey	tr	Middle Eastern	Middle Eastern
 turkish classical		Turkey	tr	Middle Eastern	Middle Eastern
-uae indie		United Arab Emirates	ae	Middle Eastern	Middle Eastern
 sufi				Middle Eastern	Middle Eastern
 arab alternative	indie			Middle Eastern	Middle Eastern
 arab pop	pop			Middle Eastern	Middle Eastern
@@ -106,325 +110,95 @@ arabic jazz				Middle Eastern	Middle Eastern
 classic arab pop				Middle Eastern	Middle Eastern
 classic persian pop				Middle Eastern	Middle Eastern
 mizrahi				Middle Eastern	Middle Eastern
-arab folk				Middle Eastern	Middle Eastern
-arab groove				Middle Eastern	Middle Eastern
-belgian dance		Belgium	be	Western Europe	Europe
-belgian edm		Belgium	be	Western Europe	Europe
-belgian hip hop		Belgium	be	Western Europe	Europe
-belgian pop		Belgium	be	Western Europe	Europe
-belgian rock		Belgium	be	Western Europe	Europe
-belgian singer-songwriter		Belgium	be	Western Europe	Europe
-belgian techno		Belgium	be	Western Europe	Europe
-ghent indie		Belgium	be	Western Europe	Europe
-belgian jazz		Belgium	be	Western Europe	Europe
-belgian indie		Belgium	be	Western Europe	Europe
-belgian experimental		Belgium	be	Western Europe	Europe
-belgian contemporary classical		Belgium	be	Western Europe	Europe
-belgian modern jazz		Belgium	be	Western Europe	Europe
-chanson		France	fr	Western Europe	Europe
-french hip hop		France	fr	Western Europe	Europe
-french indie pop		France	fr	Western Europe	Europe
-french indietronica		France	fr	Western Europe	Europe
-french jazz		France	fr	Western Europe	Europe
-french metal		France	fr	Western Europe	Europe
-french movie tunes		France	fr	Western Europe	Europe
-french opera		France	fr	Western Europe	Europe
-french pop		France	fr	Western Europe	Europe
-french reggae		France	fr	Western Europe	Europe
-french rock		France	fr	Western Europe	Europe
-french shoegaze		France	fr	Western Europe	Europe
-french soundtrack		France	fr	Western Europe	Europe
-frenchcore		France	fr	Western Europe	Europe
-new french touch		France	fr	Western Europe	Europe
-nice indie		France	fr	Western Europe	Europe
-nouvelle chanson francaise		France	fr	Western Europe	Europe
-rap francais		France	fr	Western Europe	Europe
-variete francaise		France	fr	Western Europe	Europe
-french folk pop		France	fr	Western Europe	Europe
-french techno		France	fr	Western Europe	Europe
-french contemporary classical		France	fr	Western Europe	Europe
-antideutsche		Germany	de	Western Europe	Europe
-berlin minimal techno		Germany	de	Western Europe	Europe
-classic schlager		Germany	de	Western Europe	Europe
-cologne electronic		Germany	de	Western Europe	Europe
-cologne indie		Germany	de	Western Europe	Europe
-deep german hip hop		Germany	de	Western Europe	Europe
-dutch americana		Germany	de	Western Europe	Europe
-dutch edm		Germany	de	Western Europe	Europe
-dutch hip hop		Germany	de	Western Europe	Europe
-dutch house		Germany	de	Western Europe	Europe
-dutch idol pop		Germany	de	Western Europe	Europe
-dutch indie		Germany	de	Western Europe	Europe
-dutch metal		Germany	de	Western Europe	Europe
-dutch pop		Germany	de	Western Europe	Europe
-dutch r&b		Germany	de	Western Europe	Europe
-dutch rock		Germany	de	Western Europe	Europe
-dutch tech house		Germany	de	Western Europe	Europe
-dutch urban		Germany	de	Western Europe	Europe
-german alternative rap		Germany	de	Western Europe	Europe
-german alternative rock		Germany	de	Western Europe	Europe
-german baroque		Germany	de	Western Europe	Europe
-german cloud rap		Germany	de	Western Europe	Europe
-german dance		Germany	de	Western Europe	Europe
-german dark minimal techno		Germany	de	Western Europe	Europe
-german hip hop		Germany	de	Western Europe	Europe
-german house		Germany	de	Western Europe	Europe
-german indie		Germany	de	Western Europe	Europe
-german indie folk		Germany	de	Western Europe	Europe
-german metal		Germany	de	Western Europe	Europe
-german oi		Germany	de	Western Europe	Europe
-german pop		Germany	de	Western Europe	Europe
-german pop rock		Germany	de	Western Europe	Europe
-german rock		Germany	de	Western Europe	Europe
-german singer-songwriter		Germany	de	Western Europe	Europe
-german soundtrack		Germany	de	Western Europe	Europe
-german tech house		Germany	de	Western Europe	Europe
-german techno		Germany	de	Western Europe	Europe
-german trap		Germany	de	Western Europe	Europe
-german underground rap		Germany	de	Western Europe	Europe
-hamburg electronic		Germany	de	Western Europe	Europe
-hamburg hip hop		Germany	de	Western Europe	Europe
-hammond organ		Germany	de	Western Europe	Europe
-indie deutschrap		Germany	de	Western Europe	Europe
-iskelma		Germany	de	Western Europe	Europe
-neue deutsche harte		Germany	de	Western Europe	Europe
-neue deutsche welle		Germany	de	Western Europe	Europe
-schlager		Germany	de	Western Europe	Europe
-dutch indie rock		Germany	de	Western Europe	Europe
-dutch singer-songwriter		Germany	de	Western Europe	Europe
-dutch jazz		Germany	de	Western Europe	Europe
-german hard rock		Germany	de	Western Europe	Europe
-german stoner rock		Germany	de	Western Europe	Europe
-german electronica		Germany	de	Western Europe	Europe
-dusseldorf indie		Germany	de	Western Europe	Europe
-german jazz		Germany	de	Western Europe	Europe
-berlin school		Germany	de	Western Europe	Europe
-dutch experimental		Germany	de	Western Europe	Europe
-dutch experimental electronic		Germany	de	Western Europe	Europe
-frankfurt electronic		Germany	de	Western Europe	Europe
-classic greek pop		Greece	gr	Western Europe	Europe
-greek hip hop		Greece	gr	Western Europe	Europe
-greek house		Greece	gr	Western Europe	Europe
-greek indie		Greece	gr	Western Europe	Europe
-greek pop		Greece	gr	Western Europe	Europe
-greek trap		Greece	gr	Western Europe	Europe
-laiko		Greece	gr	Western Europe	Europe
-greek contemporary classical		Greece	gr	Western Europe	Europe
-cork indie		Ireland	ie	Western Europe	Europe
-dublin indie		Ireland	ie	Western Europe	Europe
-irish drill		Ireland	ie	Western Europe	Europe
-irish electronic		Ireland	ie	Western Europe	Europe
-irish folk		Ireland	ie	Western Europe	Europe
-irish hip hop		Ireland	ie	Western Europe	Europe
-irish indie		Ireland	ie	Western Europe	Europe
-irish pop		Ireland	ie	Western Europe	Europe
-irish rock		Ireland	ie	Western Europe	Europe
-irish singer-songwriter		Ireland	ie	Western Europe	Europe
-irish indie rock		Ireland	ie	Western Europe	Europe
-irish experimental electronic		Ireland	ie	Western Europe	Europe
-irish techno		Ireland	ie	Western Europe	Europe
-irish neo-traditional		Ireland	ie	Western Europe	Europe
-classic italian pop		Italy	it	Western Europe	Europe
-firenze indie		Italy	it	Western Europe	Europe
-folk rock italiano		Italy	it	Western Europe	Europe
-indie folk italiano		Italy	it	Western Europe	Europe
-indie liguria		Italy	it	Western Europe	Europe
-indie rock italiano		Italy	it	Western Europe	Europe
-italian alternative		Italy	it	Western Europe	Europe
-italian arena pop		Italy	it	Western Europe	Europe
-italian contemporary jazz		Italy	it	Western Europe	Europe
-italian electronica		Italy	it	Western Europe	Europe
-italian folk		Italy	it	Western Europe	Europe
-italian folk metal		Italy	it	Western Europe	Europe
-italian gothic		Italy	it	Western Europe	Europe
-italian gothic metal		Italy	it	Western Europe	Europe
-italian hip hop		Italy	it	Western Europe	Europe
-italian indie pop		Italy	it	Western Europe	Europe
-italian metal		Italy	it	Western Europe	Europe
-italian pop		Italy	it	Western Europe	Europe
-italian pop rock		Italy	it	Western Europe	Europe
-italian power metal		Italy	it	Western Europe	Europe
-italian reggae		Italy	it	Western Europe	Europe
-italian ska		Italy	it	Western Europe	Europe
-italian tech house		Italy	it	Western Europe	Europe
-italian techno		Italy	it	Western Europe	Europe
-italian tenor		Italy	it	Western Europe	Europe
-italian underground hip hop		Italy	it	Western Europe	Europe
-italo dance		Italy	it	Western Europe	Europe
-milan indie		Italy	it	Western Europe	Europe
-rome indie		Italy	it	Western Europe	Europe
-trap italiana		Italy	it	Western Europe	Europe
-turin indie		Italy	it	Western Europe	Europe
-italian experimental		Italy	it	Western Europe	Europe
-italian occult psychedelia		Italy	it	Western Europe	Europe
-italian contemporary classical		Italy	it	Western Europe	Europe
-italian emo		Italy	it	Western Europe	Europe
-italian post punk		Italy	it	Western Europe	Europe
-italogaze		Italy	it	Western Europe	Europe
-italian jazz		Italy	it	Western Europe	Europe
-italian jazz fusion		Italy	it	Western Europe	Europe
-italian progressive rock		Italy	it	Western Europe	Europe
-italian doom metal		Italy	it	Western Europe	Europe
-italian stoner rock		Italy	it	Western Europe	Europe
-canzone d'autore		Italy	it	Western Europe	Europe
-canzone genovese		Italy	it	Western Europe	Europe
-italian industrial		Italy	it	Western Europe	Europe
-dutch contemporary classical		Netherlands	nl	Western Europe	Europe
-hip hop tuga		Portugal	pt	Western Europe	Europe
-portuguese indie		Portugal	pt	Western Europe	Europe
-portuguese pop		Portugal	pt	Western Europe	Europe
-trap tuga		Portugal	pt	Western Europe	Europe
-musica portuguesa contemporanea		Portugal	pt	Western Europe	Europe
-portuguese experimental		Portugal	pt	Western Europe	Europe
-granada indie		Spain	es	Western Europe	Europe
-indie valenciana		Spain	es	Western Europe	Europe
-r&b en espanol		Spain	es	Western Europe	Europe
-rap marseille		Spain	es	Western Europe	Europe
-rock alternativo espanol		Spain	es	Western Europe	Europe
-rock en espanol		Spain	es	Western Europe	Europe
-spanish electropop		Spain	es	Western Europe	Europe
-spanish folk		Spain	es	Western Europe	Europe
-spanish hip hop		Spain	es	Western Europe	Europe
-spanish indie pop		Spain	es	Western Europe	Europe
-spanish modern rock		Spain	es	Western Europe	Europe
-spanish new wave		Spain	es	Western Europe	Europe
-spanish noise pop		Spain	es	Western Europe	Europe
-spanish pop		Spain	es	Western Europe	Europe
-spanish pop rock		Spain	es	Western Europe	Europe
-spanish punk		Spain	es	Western Europe	Europe
-spanish reggae		Spain	es	Western Europe	Europe
-spanish rock		Spain	es	Western Europe	Europe
-trap catala		Spain	es	Western Europe	Europe
-trap espanol		Spain	es	Western Europe	Europe
-spanish techno		Spain	es	Western Europe	Europe
-basel indie		Switzerland	ch	Western Europe	Europe
-bass house		Switzerland	ch	Western Europe	Europe
-swiss hip hop		Switzerland	ch	Western Europe	Europe
-swiss house		Switzerland	ch	Western Europe	Europe
-swiss indie		Switzerland	ch	Western Europe	Europe
-swiss pop		Switzerland	ch	Western Europe	Europe
-swiss rock		Switzerland	ch	Western Europe	Europe
-swiss singer-songwriter		Switzerland	ch	Western Europe	Europe
-swiss techno		Switzerland	ch	Western Europe	Europe
-yodeling		Switzerland	ch	Western Europe	Europe
-swiss experimental		Switzerland	ch	Western Europe	Europe
-swiss jazz		Switzerland	ch	Western Europe	Europe
-swiss indie folk		Switzerland	ch	Western Europe	Europe
-zurich indie		Switzerland	ch	Western Europe	Europe
-aberdeen indie	indie	United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-birmingham grime		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-birmingham hip hop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-birmingham indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-birmingham metal		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-brighton indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-bristol electronic		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-bristol indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british alternative rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british blues		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british children's music		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british comedy		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british country		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british folk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british indie rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british invasion		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british jazz		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british modern classical		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british post-rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british singer-songwriter		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british soul		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british soundtrack		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-britpop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-channel islands indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-classic uk pop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-devon indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-east anglia indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-english indie rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-glasgow indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-isle of wight indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-kent indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-leeds indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-leicester indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-liverpool indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-london indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-london rap		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-madchester		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-manchester hip hop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-manchester indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-scottish hip hop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-scottish indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-scottish indie rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-scottish new wave		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-scottish rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-traditional british folk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk alternative hip hop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk alternative pop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk americana		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk christian rap		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk contemporary r&b		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk dance		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk dancehall		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk dnb		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk doom metal		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk drill		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk funky		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk garage		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk hip hop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk house		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk metalcore		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk pop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk pop punk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk post-punk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk reggae		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk tech house		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk worship		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-ukg revival		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-welsh indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-welsh metal		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-welsh rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-york indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk contemporary jazz		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk experimental electronic		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-scottish electronic		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk noise rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-scottish singer-songwriter		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british experimental		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-scottish techno		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-canterbury scene		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-scottish jazz		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-scottish folk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk post-metal		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british industrial		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-uk post-punk revival		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british electroacoustic		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-isle of man indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-british contemporary classical		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-traditional english folk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
-celtic punk				Western Europe	Europe
-celtic rock				Western Europe	Europe
-classic russian pop		Russian Federation	ru	Russia	Europe
-kavkaz		Russian Federation	ru	Russia	Europe
-russian ccm		Russian Federation	ru	Russia	Europe
-russian dance		Russian Federation	ru	Russia	Europe
-russian dance pop		Russian Federation	ru	Russia	Europe
-russian gangster rap		Russian Federation	ru	Russia	Europe
-russian hip hop		Russian Federation	ru	Russia	Europe
-russian indie		Russian Federation	ru	Russia	Europe
-russian jazz		Russian Federation	ru	Russia	Europe
-russian pop		Russian Federation	ru	Russia	Europe
-russian punk		Russian Federation	ru	Russia	Europe
-russian reggae		Russian Federation	ru	Russia	Europe
-russian rock		Russian Federation	ru	Russia	Europe
-russian trap		Russian Federation	ru	Russia	Europe
-russian underground rap		Russian Federation	ru	Russia	Europe
-siberian folk		Russian Federation	ru	Russia	Europe
-russian electronic		Russian Federation	ru	Russia	Europe
-russian experimental electronic		Russian Federation	ru	Russia	Europe
-russian techno		Russian Federation	ru	Russia	Europe
-russian contemporary classical		Russian Federation	ru	Russia	Europe
-russian modern classical		Russian Federation	ru	Russia	Europe
-russian folk		Russian Federation	ru	Russia	Europe
-russian synthpop		Russian Federation	ru	Russia	Europe
-russian post-punk		Russian Federation	ru	Russia	Europe
+albanian hip hop	hip hop	Albania	al	Eastern Europe	Europe
+albanian pop	pop	Albania	al	Eastern Europe	Europe
+armenian folk		Armenia	am	Eastern Europe	Europe
+armenian pop	pop	Armenia	am	Eastern Europe	Europe
+austrian indie		Austria	at	Eastern Europe	Europe
+austrian pop	pop	Austria	at	Eastern Europe	Europe
+azeri pop		Azerbaijan	az	Eastern Europe	Europe
+azeri traditional		Azerbaijan	az	Eastern Europe	Europe
+sevdah		Bosnia and Herzegovina	ba	Eastern Europe	Europe
+bosnian indie		Bosnia and Herzegovina	ba	Eastern Europe	Europe
+bulgarian pop		Bulgaria	bg	Eastern Europe	Europe
+bulgarian rock		Bulgaria	bg	Eastern Europe	Europe
+belarusian electronic		Belarus	by	Eastern Europe	Europe
+belarusian indie		Belarus	by	Eastern Europe	Europe
+czech folk		Czechia	cz	Eastern Europe	Europe
+czech hip hop		Czechia	cz	Eastern Europe	Europe
+czech pop		Czechia	cz	Eastern Europe	Europe
+czech punk		Czechia	cz	Eastern Europe	Europe
+czech rock		Czechia	cz	Eastern Europe	Europe
+czsk hip hop		Czechia	cz	Eastern Europe	Europe
+czsk reggae		Czechia	cz	Eastern Europe	Europe
+estonian electronic		Estonia	ee	Eastern Europe	Europe
+estonian folk		Estonia	ee	Eastern Europe	Europe
+estonian hip hop		Estonia	ee	Eastern Europe	Europe
+estonian indie		Estonia	ee	Eastern Europe	Europe
+estonian pop		Estonia	ee	Eastern Europe	Europe
+estonian rock		Estonia	ee	Eastern Europe	Europe
+croatian pop		Croatia	hr	Eastern Europe	Europe
+hungarian metal		Hungary	hu	Eastern Europe	Europe
+hungarian pop		Hungary	hu	Eastern Europe	Europe
+magyar alternative		Hungary	hu	Eastern Europe	Europe
+magyar mulatos		Hungary	hu	Eastern Europe	Europe
+hungarian rock		Hungary	hu	Eastern Europe	Europe
+kosovan pop		Kosovo	ks	Eastern Europe	Europe
+lithuanian electronic		Lithuania	lt	Eastern Europe	Europe
+lithuanian hip hop		Lithuania	lt	Eastern Europe	Europe
+lithuanian pop		Lithuania	lt	Eastern Europe	Europe
+lithuanian rock		Lithuania	lt	Eastern Europe	Europe
+lithuanian indie		Lithuania	lt	Eastern Europe	Europe
+latvian folk		Latvia	lv	Eastern Europe	Europe
+latvian pop		Latvia	lv	Eastern Europe	Europe
+moldovan pop		Moldova, Republic of	md	Eastern Europe	Europe
+montenegrin pop		Montenegro	me	Eastern Europe	Europe
+macedonian pop		Macedonia, the former Yugoslav Republic of	mk	Eastern Europe	Europe
+macedonian folk		Macedonia, the former Yugoslav Republic of	mk	Eastern Europe	Europe
+macedonian indie		Macedonia, the former Yugoslav Republic of	mk	Eastern Europe	Europe
+classic polish pop		Poland	pl	Eastern Europe	Europe
+polish alternative rock		Poland	pl	Eastern Europe	Europe
+polish choir		Poland	pl	Eastern Europe	Europe
+polish contemporary classical		Poland	pl	Eastern Europe	Europe
+polish electronica		Poland	pl	Eastern Europe	Europe
+polish folk		Poland	pl	Eastern Europe	Europe
+polish hip hop		Poland	pl	Eastern Europe	Europe
+polish indie		Poland	pl	Eastern Europe	Europe
+polish jazz		Poland	pl	Eastern Europe	Europe
+polish modern jazz		Poland	pl	Eastern Europe	Europe
+polish pop		Poland	pl	Eastern Europe	Europe
+polish reggae		Poland	pl	Eastern Europe	Europe
+polish trap		Poland	pl	Eastern Europe	Europe
+polish underground hip hop		Poland	pl	Eastern Europe	Europe
+polish ambient		Poland	pl	Eastern Europe	Europe
+polish black metal		Poland	pl	Eastern Europe	Europe
+polish death metal		Poland	pl	Eastern Europe	Europe
+polish metal		Poland	pl	Eastern Europe	Europe
+romanian pop		Romania	ro	Eastern Europe	Europe
+romanian metal		Romania	ro	Eastern Europe	Europe
+romanian electronic		Romania	ro	Eastern Europe	Europe
+rominimal		Romania	ro	Eastern Europe	Europe
+romanian rock		Romania	ro	Eastern Europe	Europe
+romanian contemporary classical		Romania	ro	Eastern Europe	Europe
+slovenian electronic		Slovenia	si	Eastern Europe	Europe
+slovenian pop		Slovenia	si	Eastern Europe	Europe
+slovenian indie		Slovenia	si	Eastern Europe	Europe
+slovenian rock		Slovenia	si	Eastern Europe	Europe
+slovak hip hop		Slovakia	sk	Eastern Europe	Europe
+ukrainian classical		Ukraine	ua	Eastern Europe	Europe
+ukrainian electronic		Ukraine	ua	Eastern Europe	Europe
+ukrainian hip hop		Ukraine	ua	Eastern Europe	Europe
+ukrainian indie		Ukraine	ua	Eastern Europe	Europe
+ukrainian pop		Ukraine	ua	Eastern Europe	Europe
+ukrainian rock		Ukraine	ua	Eastern Europe	Europe
+ukrainian experimental		Ukraine	ua	Eastern Europe	Europe
+balkan brass				Eastern Europe	Europe
+gypsy fusion				Eastern Europe	Europe
+gypsy jazz				Eastern Europe	Europe
+gypsy punk				Eastern Europe	Europe
+yugoslav rock				Eastern Europe	Europe
+cypriot pop		Cyprus	cy	Mediterranean	Europe
+maltese pop		Malta	mt	Mediterranean	Europe
 classic danish pop		Denmark	dk	Northern Europe	Europe
 danish alternative rock		Denmark	dk	Northern Europe	Europe
 danish choir		Denmark	dk	Northern Europe	Europe
@@ -442,7 +216,6 @@ danish indie		Denmark	dk	Northern Europe	Europe
 danish jazz		Denmark	dk	Northern Europe	Europe
 danish modern jazz		Denmark	dk	Northern Europe	Europe
 danish indie pop		Denmark	dk	Northern Europe	Europe
-faroese jazz		Faroe Islands	fo	Northern Europe	Europe
 classic finnish pop		Finland	fi	Northern Europe	Europe
 classic iskelma		Finland	fi	Northern Europe	Europe
 finnish dance pop		Finland	fi	Northern Europe	Europe
@@ -458,6 +231,8 @@ finnish electronic		Finland	fi	Northern Europe	Europe
 finnish techno		Finland	fi	Northern Europe	Europe
 finnish blues		Finland	fi	Northern Europe	Europe
 finnish psychedelic rock		Finland	fi	Northern Europe	Europe
+finnish modern jazz		Finland	fi	Northern Europe	Europe
+faroese jazz		Faroe Islands	fo	Northern Europe	Europe
 greenlandic pop		Greenland	gl	Northern Europe	Europe
 icelandic classical		Iceland	is	Northern Europe	Europe
 icelandic electronic		Iceland	is	Northern Europe	Europe
@@ -549,193 +324,337 @@ sami				Northern Europe	Europe
 scandinavian r&b				Northern Europe	Europe
 scandipop				Northern Europe	Europe
 yoik				Northern Europe	Europe
-cypriot pop		Cyprus	cy	Mediterranean	Europe
-maltese pop		Malta	mt	Mediterranean	Europe
-albanian hip hop	hip hop	Albania	al	Eastern Europe	Europe
-albanian pop	pop	Albania	al	Eastern Europe	Europe
-armenian folk		Armenia	am	Eastern Europe	Europe
-armenian pop	pop	Armenia	am	Eastern Europe	Europe
-austrian indie		Austria	at	Eastern Europe	Europe
-austrian pop	pop	Austria	at	Eastern Europe	Europe
-azeri pop		Azerbaijan	az	Eastern Europe	Europe
-azeri traditional		Azerbaijan	az	Eastern Europe	Europe
-belarusian electronic		Belarus	by	Eastern Europe	Europe
-belarusian indie		Belarus	by	Eastern Europe	Europe
-sevdah		Bosnia and Herzegovina	ba	Eastern Europe	Europe
-bosnian indie		Bosnia and Herzegovina	ba	Eastern Europe	Europe
-bulgarian pop		Bulgaria	bg	Eastern Europe	Europe
-bulgarian rock		Bulgaria	bg	Eastern Europe	Europe
-croatian pop		Croatia	hr	Eastern Europe	Europe
-czech folk		Czechia	cz	Eastern Europe	Europe
-czech hip hop		Czechia	cz	Eastern Europe	Europe
-czech pop		Czechia	cz	Eastern Europe	Europe
-czech punk		Czechia	cz	Eastern Europe	Europe
-czech rock		Czechia	cz	Eastern Europe	Europe
-czsk hip hop		Czechia	cz	Eastern Europe	Europe
-czsk reggae		Czechia	cz	Eastern Europe	Europe
-estonian electronic		Estonia	ee	Eastern Europe	Europe
-estonian folk		Estonia	ee	Eastern Europe	Europe
-estonian hip hop		Estonia	ee	Eastern Europe	Europe
-estonian indie		Estonia	ee	Eastern Europe	Europe
-estonian pop		Estonia	ee	Eastern Europe	Europe
-estonian rock		Estonia	ee	Eastern Europe	Europe
-hungarian metal		Hungary	hu	Eastern Europe	Europe
-hungarian pop		Hungary	hu	Eastern Europe	Europe
-magyar alternative		Hungary	hu	Eastern Europe	Europe
-magyar mulatos		Hungary	hu	Eastern Europe	Europe
-kosovan pop		Kosovo	ks	Eastern Europe	Europe
-latvian folk		Latvia	lv	Eastern Europe	Europe
-latvian pop		Latvia	lv	Eastern Europe	Europe
-lithuanian electronic		Lithuania	lt	Eastern Europe	Europe
-lithuanian hip hop		Lithuania	lt	Eastern Europe	Europe
-lithuanian pop		Lithuania	lt	Eastern Europe	Europe
-lithuanian rock		Lithuania	lt	Eastern Europe	Europe
-macedonian pop		Macedonia, the former Yugoslav Republic of	mk	Eastern Europe	Europe
-macedonian folk		Macedonia, the former Yugoslav Republic of	mk	Eastern Europe	Europe
-macedonian indie		Macedonia, the former Yugoslav Republic of	mk	Eastern Europe	Europe
-moldovan pop		Moldova, Republic of	md	Eastern Europe	Europe
-montenegrin pop		Montenegro	me	Eastern Europe	Europe
-classic polish pop		Poland	pl	Eastern Europe	Europe
-polish alternative rock		Poland	pl	Eastern Europe	Europe
-polish choir		Poland	pl	Eastern Europe	Europe
-polish contemporary classical		Poland	pl	Eastern Europe	Europe
-polish electronica		Poland	pl	Eastern Europe	Europe
-polish folk		Poland	pl	Eastern Europe	Europe
-polish hip hop		Poland	pl	Eastern Europe	Europe
-polish indie		Poland	pl	Eastern Europe	Europe
-polish jazz		Poland	pl	Eastern Europe	Europe
-polish modern jazz		Poland	pl	Eastern Europe	Europe
-polish pop		Poland	pl	Eastern Europe	Europe
-polish reggae		Poland	pl	Eastern Europe	Europe
-polish trap		Poland	pl	Eastern Europe	Europe
-polish underground hip hop		Poland	pl	Eastern Europe	Europe
-polish ambient		Poland	pl	Eastern Europe	Europe
-romanian pop		Romania	ro	Eastern Europe	Europe
-romanian metal		Romania	ro	Eastern Europe	Europe
-romanian electronic		Romania	ro	Eastern Europe	Europe
-rominimal		Romania	ro	Eastern Europe	Europe
-romanian rock		Romania	ro	Eastern Europe	Europe
-slovak hip hop		Slovakia	sk	Eastern Europe	Europe
-slovenian electronic		Slovenia	si	Eastern Europe	Europe
-slovenian pop		Slovenia	si	Eastern Europe	Europe
-slovenian indie		Slovenia	si	Eastern Europe	Europe
-slovenian rock		Slovenia	si	Eastern Europe	Europe
-ukrainian classical		Ukraine	ua	Eastern Europe	Europe
-ukrainian electronic		Ukraine	ua	Eastern Europe	Europe
-ukrainian hip hop		Ukraine	ua	Eastern Europe	Europe
-ukrainian indie		Ukraine	ua	Eastern Europe	Europe
-ukrainian pop		Ukraine	ua	Eastern Europe	Europe
-ukrainian rock		Ukraine	ua	Eastern Europe	Europe
-ukrainian experimental		Ukraine	ua	Eastern Europe	Europe
-balkan brass				Eastern Europe	Europe
-gypsy fusion				Eastern Europe	Europe
-gypsy jazz				Eastern Europe	Europe
-gypsy punk				Eastern Europe	Europe
-yugoslav rock				Eastern Europe	Europe
+classic russian pop		Russian Federation	ru	Russia	Europe
+kavkaz		Russian Federation	ru	Russia	Europe
+russian ccm		Russian Federation	ru	Russia	Europe
+russian dance		Russian Federation	ru	Russia	Europe
+russian dance pop		Russian Federation	ru	Russia	Europe
+russian gangster rap		Russian Federation	ru	Russia	Europe
+russian hip hop		Russian Federation	ru	Russia	Europe
+russian indie		Russian Federation	ru	Russia	Europe
+russian jazz		Russian Federation	ru	Russia	Europe
+russian pop		Russian Federation	ru	Russia	Europe
+russian punk		Russian Federation	ru	Russia	Europe
+russian reggae		Russian Federation	ru	Russia	Europe
+russian rock		Russian Federation	ru	Russia	Europe
+russian trap		Russian Federation	ru	Russia	Europe
+russian underground rap		Russian Federation	ru	Russia	Europe
+siberian folk		Russian Federation	ru	Russia	Europe
+russian electronic		Russian Federation	ru	Russia	Europe
+russian experimental electronic		Russian Federation	ru	Russia	Europe
+russian techno		Russian Federation	ru	Russia	Europe
+russian contemporary classical		Russian Federation	ru	Russia	Europe
+russian modern classical		Russian Federation	ru	Russia	Europe
+russian folk		Russian Federation	ru	Russia	Europe
+russian synthpop		Russian Federation	ru	Russia	Europe
+russian post-punk		Russian Federation	ru	Russia	Europe
+belgian dance		Belgium	be	Western Europe	Europe
+belgian edm		Belgium	be	Western Europe	Europe
+belgian hip hop		Belgium	be	Western Europe	Europe
+belgian pop		Belgium	be	Western Europe	Europe
+belgian rock		Belgium	be	Western Europe	Europe
+belgian singer-songwriter		Belgium	be	Western Europe	Europe
+belgian techno		Belgium	be	Western Europe	Europe
+ghent indie		Belgium	be	Western Europe	Europe
+belgian jazz		Belgium	be	Western Europe	Europe
+belgian indie		Belgium	be	Western Europe	Europe
+belgian experimental		Belgium	be	Western Europe	Europe
+belgian contemporary classical		Belgium	be	Western Europe	Europe
+belgian modern jazz		Belgium	be	Western Europe	Europe
+basel indie		Switzerland	ch	Western Europe	Europe
+bass house		Switzerland	ch	Western Europe	Europe
+swiss hip hop		Switzerland	ch	Western Europe	Europe
+swiss house		Switzerland	ch	Western Europe	Europe
+swiss indie		Switzerland	ch	Western Europe	Europe
+swiss pop		Switzerland	ch	Western Europe	Europe
+swiss rock		Switzerland	ch	Western Europe	Europe
+swiss singer-songwriter		Switzerland	ch	Western Europe	Europe
+swiss techno		Switzerland	ch	Western Europe	Europe
+yodeling		Switzerland	ch	Western Europe	Europe
+swiss experimental		Switzerland	ch	Western Europe	Europe
+swiss jazz		Switzerland	ch	Western Europe	Europe
+swiss indie folk		Switzerland	ch	Western Europe	Europe
+zurich indie		Switzerland	ch	Western Europe	Europe
+antideutsche		Germany	de	Western Europe	Europe
+berlin minimal techno		Germany	de	Western Europe	Europe
+classic schlager		Germany	de	Western Europe	Europe
+cologne electronic		Germany	de	Western Europe	Europe
+cologne indie		Germany	de	Western Europe	Europe
+deep german hip hop		Germany	de	Western Europe	Europe
+dutch americana		Germany	de	Western Europe	Europe
+dutch edm		Germany	de	Western Europe	Europe
+dutch hip hop		Germany	de	Western Europe	Europe
+dutch house		Germany	de	Western Europe	Europe
+dutch idol pop		Germany	de	Western Europe	Europe
+dutch indie		Germany	de	Western Europe	Europe
+dutch metal		Germany	de	Western Europe	Europe
+dutch pop		Germany	de	Western Europe	Europe
+dutch r&b		Germany	de	Western Europe	Europe
+dutch rock		Germany	de	Western Europe	Europe
+dutch tech house		Germany	de	Western Europe	Europe
+dutch urban		Germany	de	Western Europe	Europe
+german alternative rap		Germany	de	Western Europe	Europe
+german alternative rock		Germany	de	Western Europe	Europe
+german baroque		Germany	de	Western Europe	Europe
+german cloud rap		Germany	de	Western Europe	Europe
+german dance		Germany	de	Western Europe	Europe
+german dark minimal techno		Germany	de	Western Europe	Europe
+german hip hop		Germany	de	Western Europe	Europe
+german house		Germany	de	Western Europe	Europe
+german indie		Germany	de	Western Europe	Europe
+german indie folk		Germany	de	Western Europe	Europe
+german metal		Germany	de	Western Europe	Europe
+german oi		Germany	de	Western Europe	Europe
+german pop		Germany	de	Western Europe	Europe
+german pop rock		Germany	de	Western Europe	Europe
+german rock		Germany	de	Western Europe	Europe
+german singer-songwriter		Germany	de	Western Europe	Europe
+german soundtrack		Germany	de	Western Europe	Europe
+german tech house		Germany	de	Western Europe	Europe
+german techno		Germany	de	Western Europe	Europe
+german trap		Germany	de	Western Europe	Europe
+german underground rap		Germany	de	Western Europe	Europe
+hamburg electronic		Germany	de	Western Europe	Europe
+hamburg hip hop		Germany	de	Western Europe	Europe
+hammond organ		Germany	de	Western Europe	Europe
+indie deutschrap		Germany	de	Western Europe	Europe
+iskelma		Germany	de	Western Europe	Europe
+neue deutsche harte		Germany	de	Western Europe	Europe
+neue deutsche welle		Germany	de	Western Europe	Europe
+schlager		Germany	de	Western Europe	Europe
+dutch indie rock		Germany	de	Western Europe	Europe
+dutch singer-songwriter		Germany	de	Western Europe	Europe
+dutch jazz		Germany	de	Western Europe	Europe
+german hard rock		Germany	de	Western Europe	Europe
+german stoner rock		Germany	de	Western Europe	Europe
+german electronica		Germany	de	Western Europe	Europe
+dusseldorf indie		Germany	de	Western Europe	Europe
+german jazz		Germany	de	Western Europe	Europe
+berlin school		Germany	de	Western Europe	Europe
+dutch experimental		Germany	de	Western Europe	Europe
+dutch experimental electronic		Germany	de	Western Europe	Europe
+frankfurt electronic		Germany	de	Western Europe	Europe
+granada indie		Spain	es	Western Europe	Europe
+indie valenciana		Spain	es	Western Europe	Europe
+r&b en espanol		Spain	es	Western Europe	Europe
+rap marseille		Spain	es	Western Europe	Europe
+rock alternativo espanol		Spain	es	Western Europe	Europe
+rock en espanol		Spain	es	Western Europe	Europe
+spanish electropop		Spain	es	Western Europe	Europe
+spanish folk		Spain	es	Western Europe	Europe
+spanish hip hop		Spain	es	Western Europe	Europe
+spanish indie pop		Spain	es	Western Europe	Europe
+spanish modern rock		Spain	es	Western Europe	Europe
+spanish new wave		Spain	es	Western Europe	Europe
+spanish noise pop		Spain	es	Western Europe	Europe
+spanish pop		Spain	es	Western Europe	Europe
+spanish pop rock		Spain	es	Western Europe	Europe
+spanish punk		Spain	es	Western Europe	Europe
+spanish reggae		Spain	es	Western Europe	Europe
+spanish rock		Spain	es	Western Europe	Europe
+trap catala		Spain	es	Western Europe	Europe
+trap espanol		Spain	es	Western Europe	Europe
+spanish techno		Spain	es	Western Europe	Europe
+chanson		France	fr	Western Europe	Europe
+french hip hop		France	fr	Western Europe	Europe
+french indie pop		France	fr	Western Europe	Europe
+french indietronica		France	fr	Western Europe	Europe
+french jazz		France	fr	Western Europe	Europe
+french metal		France	fr	Western Europe	Europe
+french movie tunes		France	fr	Western Europe	Europe
+french opera		France	fr	Western Europe	Europe
+french pop		France	fr	Western Europe	Europe
+french reggae		France	fr	Western Europe	Europe
+french rock		France	fr	Western Europe	Europe
+french shoegaze		France	fr	Western Europe	Europe
+french soundtrack		France	fr	Western Europe	Europe
+frenchcore		France	fr	Western Europe	Europe
+new french touch		France	fr	Western Europe	Europe
+nice indie		France	fr	Western Europe	Europe
+nouvelle chanson francaise		France	fr	Western Europe	Europe
+rap francais		France	fr	Western Europe	Europe
+variete francaise		France	fr	Western Europe	Europe
+french folk pop		France	fr	Western Europe	Europe
+french techno		France	fr	Western Europe	Europe
+french contemporary classical		France	fr	Western Europe	Europe
+french post-punk		France	fr	Western Europe	Europe
+aberdeen indie	indie	United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+birmingham grime		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+birmingham hip hop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+birmingham indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+birmingham metal		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+brighton indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+bristol electronic		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+bristol indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british alternative rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british blues		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british children's music		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british comedy		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british country		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british folk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british indie rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british invasion		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british jazz		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british modern classical		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british post-rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british singer-songwriter		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british soul		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british soundtrack		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+britpop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+channel islands indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+classic uk pop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+devon indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+east anglia indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+english indie rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+glasgow indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+isle of wight indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+kent indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+leeds indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+leicester indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+liverpool indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+london indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+london rap		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+madchester		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+manchester hip hop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+manchester indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+scottish hip hop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+scottish indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+scottish indie rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+scottish new wave		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+scottish rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+traditional british folk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk alternative hip hop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk alternative pop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk americana		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk christian rap		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk contemporary r&b		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk dance		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk dancehall		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk dnb		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk doom metal		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk drill		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk funky		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk garage		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk hip hop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk house		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk metalcore		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk pop		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk pop punk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk post-punk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk reggae		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk tech house		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk worship		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+ukg revival		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+welsh indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+welsh metal		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+welsh rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+york indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk contemporary jazz		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk experimental electronic		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+scottish electronic		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk noise rock		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+scottish singer-songwriter		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british experimental		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+scottish techno		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+canterbury scene		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+scottish jazz		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+scottish folk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk post-metal		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british industrial		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+uk post-punk revival		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british electroacoustic		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+isle of man indie		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+british contemporary classical		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+traditional english folk		United Kingdom of Great Britain and Northern Ireland	gb	Western Europe	Europe
+classic greek pop		Greece	gr	Western Europe	Europe
+greek hip hop		Greece	gr	Western Europe	Europe
+greek house		Greece	gr	Western Europe	Europe
+greek indie		Greece	gr	Western Europe	Europe
+greek pop		Greece	gr	Western Europe	Europe
+greek trap		Greece	gr	Western Europe	Europe
+laiko		Greece	gr	Western Europe	Europe
+greek contemporary classical		Greece	gr	Western Europe	Europe
+greek metal		Greece	gr	Western Europe	Europe
+greek rock		Greece	gr	Western Europe	Europe
+cork indie		Ireland	ie	Western Europe	Europe
+dublin indie		Ireland	ie	Western Europe	Europe
+irish drill		Ireland	ie	Western Europe	Europe
+irish electronic		Ireland	ie	Western Europe	Europe
+irish folk		Ireland	ie	Western Europe	Europe
+irish hip hop		Ireland	ie	Western Europe	Europe
+irish indie		Ireland	ie	Western Europe	Europe
+irish pop		Ireland	ie	Western Europe	Europe
+irish rock		Ireland	ie	Western Europe	Europe
+irish singer-songwriter		Ireland	ie	Western Europe	Europe
+irish indie rock		Ireland	ie	Western Europe	Europe
+irish experimental electronic		Ireland	ie	Western Europe	Europe
+irish techno		Ireland	ie	Western Europe	Europe
+irish neo-traditional		Ireland	ie	Western Europe	Europe
+classic italian pop		Italy	it	Western Europe	Europe
+firenze indie		Italy	it	Western Europe	Europe
+folk rock italiano		Italy	it	Western Europe	Europe
+indie folk italiano		Italy	it	Western Europe	Europe
+indie liguria		Italy	it	Western Europe	Europe
+indie rock italiano		Italy	it	Western Europe	Europe
+italian alternative		Italy	it	Western Europe	Europe
+italian arena pop		Italy	it	Western Europe	Europe
+italian contemporary jazz		Italy	it	Western Europe	Europe
+italian electronica		Italy	it	Western Europe	Europe
+italian folk		Italy	it	Western Europe	Europe
+italian folk metal		Italy	it	Western Europe	Europe
+italian gothic		Italy	it	Western Europe	Europe
+italian gothic metal		Italy	it	Western Europe	Europe
+italian hip hop		Italy	it	Western Europe	Europe
+italian indie pop		Italy	it	Western Europe	Europe
+italian metal		Italy	it	Western Europe	Europe
+italian pop		Italy	it	Western Europe	Europe
+italian pop rock		Italy	it	Western Europe	Europe
+italian power metal		Italy	it	Western Europe	Europe
+italian reggae		Italy	it	Western Europe	Europe
+italian ska		Italy	it	Western Europe	Europe
+italian tech house		Italy	it	Western Europe	Europe
+italian techno		Italy	it	Western Europe	Europe
+italian tenor		Italy	it	Western Europe	Europe
+italian underground hip hop		Italy	it	Western Europe	Europe
+italo dance		Italy	it	Western Europe	Europe
+milan indie		Italy	it	Western Europe	Europe
+rome indie		Italy	it	Western Europe	Europe
+trap italiana		Italy	it	Western Europe	Europe
+turin indie		Italy	it	Western Europe	Europe
+italian experimental		Italy	it	Western Europe	Europe
+italian occult psychedelia		Italy	it	Western Europe	Europe
+italian contemporary classical		Italy	it	Western Europe	Europe
+italian emo		Italy	it	Western Europe	Europe
+italian post punk		Italy	it	Western Europe	Europe
+italogaze		Italy	it	Western Europe	Europe
+italian jazz		Italy	it	Western Europe	Europe
+italian jazz fusion		Italy	it	Western Europe	Europe
+italian progressive rock		Italy	it	Western Europe	Europe
+italian doom metal		Italy	it	Western Europe	Europe
+italian stoner rock		Italy	it	Western Europe	Europe
+canzone d'autore		Italy	it	Western Europe	Europe
+canzone genovese		Italy	it	Western Europe	Europe
+italian industrial		Italy	it	Western Europe	Europe
+italian soundtrack		Italy	it	Western Europe	Europe
+dutch contemporary classical		Netherlands	nl	Western Europe	Europe
+hip hop tuga		Portugal	pt	Western Europe	Europe
+portuguese indie		Portugal	pt	Western Europe	Europe
+portuguese pop		Portugal	pt	Western Europe	Europe
+trap tuga		Portugal	pt	Western Europe	Europe
+musica portuguesa contemporanea		Portugal	pt	Western Europe	Europe
+portuguese experimental		Portugal	pt	Western Europe	Europe
+celtic punk				Western Europe	Europe
+celtic rock				Western Europe	Europe
 euroska					Europe
 deep melodic euro house					Europe
 eurodance					Europe
 europop					Europe
 eurovision					Europe
-bhangra	dance	India	in	Southern Asia	Asia
-carnatic		India	in	Southern Asia	Asia
-classic bollywood		India	in	Southern Asia	Asia
-deep indian pop		India	in	Southern Asia	Asia
-desi hip hop	hip hop	India	in	Southern Asia	Asia
-desi pop	pop	India	in	Southern Asia	Asia
-hindi hip hop		India	in	Southern Asia	Asia
-indian classical		India	in	Southern Asia	Asia
-indian edm	dance	India	in	Southern Asia	Asia
-indian electronic		India	in	Southern Asia	Asia
-indian folk	traditional	India	in	Southern Asia	Asia
-indian indie	indie	India	in	Southern Asia	Asia
-indian rock	rock	India	in	Southern Asia	Asia
-modern bollywood		India	in	Southern Asia	Asia
-punjabi pop		India	in	Southern Asia	Asia
-tamil hip hop		India	in	Southern Asia	Asia
-tamil pop		India	in	Southern Asia	Asia
-telugu worship		India	in	Southern Asia	Asia
-tollywood	dance	India	in	Southern Asia	Asia
-indian jazz		India	in	Southern Asia	Asia
-bengali folk		India	in	Southern Asia	Asia
-rajasthani folk		India	in	Southern Asia	Asia
-classic pakistani pop	pop	Pakistan	pk	Southern Asia	Asia
-pakistani folk		Pakistan	pk	Southern Asia	Asia
-pakistani pop		Pakistan	pk	Southern Asia	Asia
-pakistani indie		Pakistan	pk	Southern Asia	Asia
-khmer		Cambodia	kh	South Eastern Asia	Asia
-cambodian rock		Cambodia	kh	South Eastern Asia	Asia
-cambodian traditional		Cambodia	kh	South Eastern Asia	Asia
-classic indo pop		Indonesia	id	South Eastern Asia	Asia
-dangdut		Indonesia	id	South Eastern Asia	Asia
-dangdut koplo		Indonesia	id	South Eastern Asia	Asia
-dangdut remix		Indonesia	id	South Eastern Asia	Asia
-indonesian city pop	indie	Indonesia	id	South Eastern Asia	Asia
-indonesian death metal		Indonesia	id	South Eastern Asia	Asia
-indonesian edm	dance	Indonesia	id	South Eastern Asia	Asia
-indonesian folk	traditional	Indonesia	id	South Eastern Asia	Asia
-indonesian hardcore		Indonesia	id	South Eastern Asia	Asia
-indonesian hip hop	hip hop	Indonesia	id	South Eastern Asia	Asia
-indonesian indie	indie	Indonesia	id	South Eastern Asia	Asia
-indonesian indie pop	indie	Indonesia	id	South Eastern Asia	Asia
-indonesian indie rock		Indonesia	id	South Eastern Asia	Asia
-indonesian jazz	jazz	Indonesia	id	South Eastern Asia	Asia
-indonesian metal		Indonesia	id	South Eastern Asia	Asia
-indonesian pop		Indonesia	id	South Eastern Asia	Asia
-indonesian pop punk		Indonesia	id	South Eastern Asia	Asia
-indonesian post-hardcore		Indonesia	id	South Eastern Asia	Asia
-indonesian r&b		Indonesia	id	South Eastern Asia	Asia
-indonesian rock		Indonesia	id	South Eastern Asia	Asia
-indonesian worship		Indonesia	id	South Eastern Asia	Asia
-indonesian psychedelia		Indonesia	id	South Eastern Asia	Asia
-classic malaysian pop		Malaysia	my	South Eastern Asia	Asia
-malaysian hip hop		Malaysia	my	South Eastern Asia	Asia
-malaysian indie		Malaysia	my	South Eastern Asia	Asia
-malaysian mandopop		Malaysia	my	South Eastern Asia	Asia
-malaysian pop		Malaysia	my	South Eastern Asia	Asia
-malaysian tamil pop		Malaysia	my	South Eastern Asia	Asia
-burmese pop		Myanmar	mm	South Eastern Asia	Asia
-acoustic opm	pop	Philippines	ph	South Eastern Asia	Asia
-classic opm	pop	Philippines	ph	South Eastern Asia	Asia
-manila sound		Philippines	ph	South Eastern Asia	Asia
-pinoy alternative rap		Philippines	ph	South Eastern Asia	Asia
-pinoy hip hop		Philippines	ph	South Eastern Asia	Asia
-pinoy indie		Philippines	ph	South Eastern Asia	Asia
-pinoy pop punk		Philippines	ph	South Eastern Asia	Asia
-pinoy praise		Philippines	ph	South Eastern Asia	Asia
-pinoy r&b		Philippines	ph	South Eastern Asia	Asia
-pinoy reggae		Philippines	ph	South Eastern Asia	Asia
-pinoy rock		Philippines	ph	South Eastern Asia	Asia
-pinoy trap		Philippines	ph	South Eastern Asia	Asia
-tagalog worship		Philippines	ph	South Eastern Asia	Asia
-singaporean electronic		Singapore	sg	South Eastern Asia	Asia
-singaporean hip hop		Singapore	sg	South Eastern Asia	Asia
-singaporean indie		Singapore	sg	South Eastern Asia	Asia
-singaporean mandopop		Singapore	sg	South Eastern Asia	Asia
-singaporean pop		Singapore	sg	South Eastern Asia	Asia
-singaporean singer-songwriter		Singapore	sg	South Eastern Asia	Asia
-classic luk thung		Thailand	th	South Eastern Asia	Asia
-classic thai pop		Thailand	th	South Eastern Asia	Asia
-luk thung		Thailand	th	South Eastern Asia	Asia
-thai folk		Thailand	th	South Eastern Asia	Asia
-thai folk pop		Thailand	th	South Eastern Asia	Asia
-thai folk rock		Thailand	th	South Eastern Asia	Asia
-thai hip hop		Thailand	th	South Eastern Asia	Asia
-thai idol		Thailand	th	South Eastern Asia	Asia
-thai indie		Thailand	th	South Eastern Asia	Asia
-thai indie pop		Thailand	th	South Eastern Asia	Asia
-thai indie rock		Thailand	th	South Eastern Asia	Asia
-thai metal		Thailand	th	South Eastern Asia	Asia
-thai pop		Thailand	th	South Eastern Asia	Asia
-thai rock	rock	Thailand	th	South Eastern Asia	Asia
-molam		Thailand	th	South Eastern Asia	Asia
-indie viet	indie	Viet Nam	vn	South Eastern Asia	Asia
-rock viet		Viet Nam	vn	South Eastern Asia	Asia
-v-pop	pop	Viet Nam	vn	South Eastern Asia	Asia
-vietnamese bolero		Viet Nam	vn	South Eastern Asia	Asia
-vietnamese hip hop	hip hop	Viet Nam	vn	South Eastern Asia	Asia
-vietnamese pop		Viet Nam	vn	South Eastern Asia	Asia
-southeast asian post-rock				South Eastern Asia	Asia
+central asian folk				Central Asia	Asia
+kyrgyz traditional		Kyrgyzstan	kg	Central Asia	Asia
+kazakh pop		Kazakhstan	kz	Central Asia	Asia
+tajik traditional		Tajikistan	tj	Central Asia	Asia
+uzbek pop	pop	Uzbekistan	uz	Central Asia	Asia
 c-pop	pop	China	cn	Eastern Asia	Asia
 cantopop	pop	China	cn	Eastern Asia	Asia
 chinese audiophile		China	cn	Eastern Asia	Asia
@@ -852,6 +771,7 @@ japanese folk		Japan	jp	Eastern Asia	Asia
 japanese psychedelic		Japan	jp	Eastern Asia	Asia
 okinawan folk		Japan	jp	Eastern Asia	Asia
 ryukyu ongaku		Japan	jp	Eastern Asia	Asia
+japanese prog		Japan	jp	Eastern Asia	Asia
 dong-yo	pop	Korea, Republic of	kr	Eastern Asia	Asia
 k-hop		Korea, Republic of	kr	Eastern Asia	Asia
 k-indie		Korea, Republic of	kr	Eastern Asia	Asia
@@ -882,122 +802,167 @@ taiwan rock		Taiwan, Province of China[a]	tw	Eastern Asia	Asia
 taiwan singer-songwriter		Taiwan, Province of China[a]	tw	Eastern Asia	Asia
 taiwanese indigenous		Taiwan, Province of China[a]	tw	Eastern Asia	Asia
 taiwanese pop		Taiwan, Province of China[a]	tw	Eastern Asia	Asia
-kazakh pop		Kazakhstan	kz	Central Asia	Asia
-kyrgyz traditional		Kyrgyzstan	kg	Central Asia	Asia
-tajik traditional		Tajikistan	tj	Central Asia	Asia
-uzbek pop	pop	Uzbekistan	uz	Central Asia	Asia
-central asian folk				Central Asia	Asia
-argentine alternative rock		Argentina	ar	Southern America	America
-argentine hip hop	hip hop	Argentina	ar	Southern America	America
-argentine indie	indie	Argentina	ar	Southern America	America
-argentine rock	rock	Argentina	ar	Southern America	America
-argentine telepop	pop	Argentina	ar	Southern America	America
-pop argentino		Argentina	ar	Southern America	America
-post-punk argentina		Argentina	ar	Southern America	America
-r&b argentino		Argentina	ar	Southern America	America
-ska argentino		Argentina	ar	Southern America	America
-trap argentino		Argentina	ar	Southern America	America
-folklore argentino		Argentina	ar	Southern America	America
-nuevo folklore argentino		Argentina	ar	Southern America	America
-argentine ambient		Argentina	ar	Southern America	America
-guitarra argentina		Argentina	ar	Southern America	America
-indie nordeste argentino		Argentina	ar	Southern America	America
-argentine jazz		Argentina	ar	Southern America	America
-electronica argentina		Argentina	ar	Southern America	America
-folklore boliviano		Bolivia (Plurinational State of)	bo	Southern America	America
-bolivian rock		Bolivia (Plurinational State of)	bo	Southern America	America
-afrobeat brasileiro	dance	Brazil	br	Southern America	America
-afrofuturismo brasileiro	electronic	Brazil	br	Southern America	America
-axe		Brazil	br	Southern America	America
-baile pop		Brazil	br	Southern America	America
-belo horizonte indie		Brazil	br	Southern America	America
-bossa nova		Brazil	br	Southern America	America
-bossa nova cover		Brazil	br	Southern America	America
-brasilia hip hop		Brazil	br	Southern America	America
-brazilian boogie		Brazil	br	Southern America	America
-brazilian ccm		Brazil	br	Southern America	America
-brazilian edm		Brazil	br	Southern America	America
-brazilian gospel		Brazil	br	Southern America	America
-brazilian hip hop		Brazil	br	Southern America	America
-brazilian house		Brazil	br	Southern America	America
-brazilian indie		Brazil	br	Southern America	America
-brazilian jazz		Brazil	br	Southern America	America
-brazilian metal		Brazil	br	Southern America	America
-brazilian percussion		Brazil	br	Southern America	America
-brazilian power metal		Brazil	br	Southern America	America
-brazilian progressive metal		Brazil	br	Southern America	America
-brazilian reggae		Brazil	br	Southern America	America
-brazilian rock		Brazil	br	Southern America	America
-brega funk		Brazil	br	Southern America	America
-brega romantico		Brazil	br	Southern America	America
-deep brazilian pop		Brazil	br	Southern America	America
-disney portugues brasil		Brazil	br	Southern America	America
-folk brasileiro		Brazil	br	Southern America	America
-forro		Brazil	br	Southern America	America
-funk carioca		Brazil	br	Southern America	America
-grime brasileiro		Brazil	br	Southern America	America
-indie curitibano		Brazil	br	Southern America	America
-mangue bit		Brazil	br	Southern America	America
-mpb		Brazil	br	Southern America	America
-nova mpb		Brazil	br	Southern America	America
-novos talentos brasileiros		Brazil	br	Southern America	America
-pagode baiano		Brazil	br	Southern America	America
-r&b brasileiro		Brazil	br	Southern America	America
-rap baiano		Brazil	br	Southern America	America
-rock gospel brasileiro		Brazil	br	Southern America	America
-rock nacional brasileiro		Brazil	br	Southern America	America
-salsa		Brazil	br	Southern America	America
-salsa choke		Brazil	br	Southern America	America
-samba		Brazil	br	Southern America	America
-samba de roda		Brazil	br	Southern America	America
-samba reggae		Brazil	br	Southern America	America
-sertanejo		Brazil	br	Southern America	America
-sertanejo pop		Brazil	br	Southern America	America
-sertanejo universitario		Brazil	br	Southern America	America
-trap brasileiro		Brazil	br	Southern America	America
-musica de pernambuco		Brazil	br	Southern America	America
-brazilian modern jazz		Brazil	br	Southern America	America
-brazilian post-rock		Brazil	br	Southern America	America
-musica eletronica brasileira		Brazil	br	Southern America	America
-brazilian composition		Brazil	br	Southern America	America
-piano mpb		Brazil	br	Southern America	America
-chilean hardcore		Chile	cl	Southern America	America
-chilean indie		Chile	cl	Southern America	America
-pop chileno		Chile	cl	Southern America	America
-rap chileno		Chile	cl	Southern America	America
-reggaeton chileno		Chile	cl	Southern America	America
-trap chileno		Chile	cl	Southern America	America
-chilean rock		Chile	cl	Southern America	America
-nueva trova chilena		Chile	cl	Southern America	America
-jazz chileno		Chile	cl	Southern America	America
-colombian hip hop		Colombia	co	Southern America	America
-colombian indie		Colombia	co	Southern America	America
-colombian pop		Colombia	co	Southern America	America
-cumbia		Colombia	co	Southern America	America
-cumbia pop		Colombia	co	Southern America	America
-cumbia villera		Colombia	co	Southern America	America
-nu-cumbia		Colombia	co	Southern America	America
-colombian rock		Colombia	co	Southern America	America
-ecuadorian indie		Ecuador	ec	Southern America	America
-ecuadorian pop		Ecuador	ec	Southern America	America
-pop paraguayo		Paraguay	py	Southern America	America
-peruvian hip hop		Peru	pe	Southern America	America
-pop peruano		Peru	pe	Southern America	America
-salsa peruana		Peru	pe	Southern America	America
-peruvian rock		Peru	pe	Southern America	America
-nueva ola peruana		Peru	pe	Southern America	America
-peruvian indie		Peru	pe	Southern America	America
-peruvian punk		Peru	pe	Southern America	America
-cumbia peruana		Peru	pe	Southern America	America
-musica afroperuana		Peru	pe	Southern America	America
-classic peruvian pop		Peru	pe	Southern America	America
-cumbia uruguaya		Uruguay	uy	Southern America	America
-uruguayan indie		Uruguay	uy	Southern America	America
-venezuelan hip hop		Venezuela (Bolivarian Republic of)	ve	Southern America	America
-venezuelan indie		Venezuela (Bolivarian Republic of)	ve	Southern America	America
-venezuelan rock		Venezuela (Bolivarian Republic of)	ve	Southern America	America
-chicha				Southern America	America
-deep latin alternative				Southern America	America
+classic indo pop		Indonesia	id	South Eastern Asia	Asia
+dangdut		Indonesia	id	South Eastern Asia	Asia
+dangdut koplo		Indonesia	id	South Eastern Asia	Asia
+dangdut remix		Indonesia	id	South Eastern Asia	Asia
+indonesian city pop	indie	Indonesia	id	South Eastern Asia	Asia
+indonesian death metal		Indonesia	id	South Eastern Asia	Asia
+indonesian edm	dance	Indonesia	id	South Eastern Asia	Asia
+indonesian folk	traditional	Indonesia	id	South Eastern Asia	Asia
+indonesian hardcore		Indonesia	id	South Eastern Asia	Asia
+indonesian hip hop	hip hop	Indonesia	id	South Eastern Asia	Asia
+indonesian indie	indie	Indonesia	id	South Eastern Asia	Asia
+indonesian indie pop	indie	Indonesia	id	South Eastern Asia	Asia
+indonesian indie rock		Indonesia	id	South Eastern Asia	Asia
+indonesian jazz	jazz	Indonesia	id	South Eastern Asia	Asia
+indonesian metal		Indonesia	id	South Eastern Asia	Asia
+indonesian pop		Indonesia	id	South Eastern Asia	Asia
+indonesian pop punk		Indonesia	id	South Eastern Asia	Asia
+indonesian post-hardcore		Indonesia	id	South Eastern Asia	Asia
+indonesian r&b		Indonesia	id	South Eastern Asia	Asia
+indonesian rock		Indonesia	id	South Eastern Asia	Asia
+indonesian worship		Indonesia	id	South Eastern Asia	Asia
+indonesian psychedelia		Indonesia	id	South Eastern Asia	Asia
+khmer		Cambodia	kh	South Eastern Asia	Asia
+cambodian rock		Cambodia	kh	South Eastern Asia	Asia
+cambodian traditional		Cambodia	kh	South Eastern Asia	Asia
+burmese pop		Myanmar	mm	South Eastern Asia	Asia
+classic malaysian pop		Malaysia	my	South Eastern Asia	Asia
+malaysian hip hop		Malaysia	my	South Eastern Asia	Asia
+malaysian indie		Malaysia	my	South Eastern Asia	Asia
+malaysian mandopop		Malaysia	my	South Eastern Asia	Asia
+malaysian pop		Malaysia	my	South Eastern Asia	Asia
+malaysian tamil pop		Malaysia	my	South Eastern Asia	Asia
+acoustic opm	pop	Philippines	ph	South Eastern Asia	Asia
+classic opm	pop	Philippines	ph	South Eastern Asia	Asia
+manila sound		Philippines	ph	South Eastern Asia	Asia
+pinoy alternative rap		Philippines	ph	South Eastern Asia	Asia
+pinoy hip hop		Philippines	ph	South Eastern Asia	Asia
+pinoy indie		Philippines	ph	South Eastern Asia	Asia
+pinoy pop punk		Philippines	ph	South Eastern Asia	Asia
+pinoy praise		Philippines	ph	South Eastern Asia	Asia
+pinoy r&b		Philippines	ph	South Eastern Asia	Asia
+pinoy reggae		Philippines	ph	South Eastern Asia	Asia
+pinoy rock		Philippines	ph	South Eastern Asia	Asia
+pinoy trap		Philippines	ph	South Eastern Asia	Asia
+tagalog worship		Philippines	ph	South Eastern Asia	Asia
+singaporean electronic		Singapore	sg	South Eastern Asia	Asia
+singaporean hip hop		Singapore	sg	South Eastern Asia	Asia
+singaporean indie		Singapore	sg	South Eastern Asia	Asia
+singaporean mandopop		Singapore	sg	South Eastern Asia	Asia
+singaporean pop		Singapore	sg	South Eastern Asia	Asia
+singaporean singer-songwriter		Singapore	sg	South Eastern Asia	Asia
+classic luk thung		Thailand	th	South Eastern Asia	Asia
+classic thai pop		Thailand	th	South Eastern Asia	Asia
+luk thung		Thailand	th	South Eastern Asia	Asia
+thai folk		Thailand	th	South Eastern Asia	Asia
+thai folk pop		Thailand	th	South Eastern Asia	Asia
+thai folk rock		Thailand	th	South Eastern Asia	Asia
+thai hip hop		Thailand	th	South Eastern Asia	Asia
+thai idol		Thailand	th	South Eastern Asia	Asia
+thai indie		Thailand	th	South Eastern Asia	Asia
+thai indie pop		Thailand	th	South Eastern Asia	Asia
+thai indie rock		Thailand	th	South Eastern Asia	Asia
+thai metal		Thailand	th	South Eastern Asia	Asia
+thai pop		Thailand	th	South Eastern Asia	Asia
+thai rock	rock	Thailand	th	South Eastern Asia	Asia
+molam		Thailand	th	South Eastern Asia	Asia
+indie viet	indie	Viet Nam	vn	South Eastern Asia	Asia
+rock viet		Viet Nam	vn	South Eastern Asia	Asia
+v-pop	pop	Viet Nam	vn	South Eastern Asia	Asia
+vietnamese bolero		Viet Nam	vn	South Eastern Asia	Asia
+vietnamese hip hop	hip hop	Viet Nam	vn	South Eastern Asia	Asia
+vietnamese pop		Viet Nam	vn	South Eastern Asia	Asia
+southeast asian post-rock				South Eastern Asia	Asia
+bhangra	dance	India	in	Southern Asia	Asia
+carnatic		India	in	Southern Asia	Asia
+classic bollywood		India	in	Southern Asia	Asia
+deep indian pop		India	in	Southern Asia	Asia
+desi hip hop	hip hop	India	in	Southern Asia	Asia
+desi pop	pop	India	in	Southern Asia	Asia
+hindi hip hop		India	in	Southern Asia	Asia
+indian classical		India	in	Southern Asia	Asia
+indian edm	dance	India	in	Southern Asia	Asia
+indian electronic		India	in	Southern Asia	Asia
+indian folk	traditional	India	in	Southern Asia	Asia
+indian indie	indie	India	in	Southern Asia	Asia
+indian rock	rock	India	in	Southern Asia	Asia
+modern bollywood		India	in	Southern Asia	Asia
+punjabi pop		India	in	Southern Asia	Asia
+tamil hip hop		India	in	Southern Asia	Asia
+tamil pop		India	in	Southern Asia	Asia
+telugu worship		India	in	Southern Asia	Asia
+tollywood	dance	India	in	Southern Asia	Asia
+indian jazz		India	in	Southern Asia	Asia
+bengali folk		India	in	Southern Asia	Asia
+rajasthani folk		India	in	Southern Asia	Asia
+hindustani classical		India	in	Southern Asia	Asia
+hindustani instrumental		India	in	Southern Asia	Asia
+nepali indie		Nepal	np	Southern Asia	Asia
+nepali pop		Nepal	np	Southern Asia	Asia
+classic pakistani pop	pop	Pakistan	pk	Southern Asia	Asia
+pakistani folk		Pakistan	pk	Southern Asia	Asia
+pakistani pop		Pakistan	pk	Southern Asia	Asia
+pakistani indie		Pakistan	pk	Southern Asia	Asia
+barbadian pop		Barbados	bb	Central America	America
+bahamian pop		Bahamas	bs	Central America	America
+garifuna folk		Belize	bz	Central America	America
+bolero cubano		Cuba	cu	Central America	America
+cuban alternative		Cuba	cu	Central America	America
+cuban rumba		Cuba	cu	Central America	America
+cubaton		Cuba	cu	Central America	America
+guaracha		Cuba	cu	Central America	America
+jazz cubano		Cuba	cu	Central America	America
+salsa cubana		Cuba	cu	Central America	America
+trova		Cuba	cu	Central America	America
+bachata		Dominican Republic	do	Central America	America
+dominican pop		Dominican Republic	do	Central America	America
+rap dominicano		Dominican Republic	do	Central America	America
+musique guadeloupe		Guadeloupe	gp	Central America	America
+guatemalan pop		Guatemala	gt	Central America	America
+guatemalan indie		Guatemala	gt	Central America	America
+haitian gospel		Haiti	ht	Central America	America
+twoubadou		Haiti	ht	Central America	America
+haitian traditional		Haiti	ht	Central America	America
+dembow		Jamaica	jm	Central America	America
+nyahbinghi		Jamaica	jm	Central America	America
+banda		Mexico	mx	Central America	America
+cancion infantil mexicana		Mexico	mx	Central America	America
+cdmx indie		Mexico	mx	Central America	America
+chicano rap		Mexico	mx	Central America	America
+chihuahua indie		Mexico	mx	Central America	America
+corrido		Mexico	mx	Central America	America
+guadalajara indie		Mexico	mx	Central America	America
+mariachi		Mexico	mx	Central America	America
+merida indie		Mexico	mx	Central America	America
+mexican classic rock		Mexico	mx	Central America	America
+mexican edm		Mexico	mx	Central America	America
+mexican electronic		Mexico	mx	Central America	America
+mexican hip hop		Mexico	mx	Central America	America
+mexican indie		Mexico	mx	Central America	America
+mexican pop		Mexico	mx	Central America	America
+mexican rock		Mexico	mx	Central America	America
+mexican son		Mexico	mx	Central America	America
+mexican tech house		Mexico	mx	Central America	America
+norteno		Mexico	mx	Central America	America
+ranchera		Mexico	mx	Central America	America
+regional mexican		Mexico	mx	Central America	America
+regional mexican pop		Mexico	mx	Central America	America
+ska mexicano		Mexico	mx	Central America	America
+trap mexicano		Mexico	mx	Central America	America
+veracruz indie		Mexico	mx	Central America	America
+rock progresivo mexicano		Mexico	mx	Central America	America
+tijuana electronic		Mexico	mx	Central America	America
+post-punk mexicano		Mexico	mx	Central America	America
+panamanian pop		Panama	pa	Central America	America
+perreo		Puerto Rico	pr	Central America	America
+puerto rican indie		Puerto Rico	pr	Central America	America
+puerto rican pop		Puerto Rico	pr	Central America	America
+salsa puertorriquena		Puerto Rico	pr	Central America	America
+puerto rican folk		Puerto Rico	pr	Central America	America
+soca		Trinidad and Tobago	tt	Central America	America
+virgin islands reggae		Virgin Islands (U.S.)	vi	Central America	America
 alberta country	traditional	Canada	ca	Northern America	America
 canadian contemporary country		Canada	ca	Northern America	America
 canadian contemporary r&b		Canada	ca	Northern America	America
@@ -1039,6 +1004,8 @@ canadian modern jazz		Canada	ca	Northern America	America
 rock quebecois		Canada	ca	Northern America	America
 canadian hardcore		Canada	ca	Northern America	America
 canadian indie folk		Canada	ca	Northern America	America
+vancouver metal		Canada	ca	Northern America	America
+canadian psychedelic rock		Canada	ca	Northern America	America
 alabama indie	indie	United States of America	us	Northern America	America
 alabama rap	hip hop	United States of America	us	Northern America	America
 albany ny indie	indie	United States of America	us	Northern America	America
@@ -1167,89 +1134,158 @@ louisiana metal		United States of America	us	Northern America	America
 early us punk		United States of America	us	Northern America	America
 native american hip hop		United States of America	us	Northern America	America
 ny roots		United States of America	us	Northern America	America
-bahamian pop		Bahamas	bs	Central America	America
-barbadian pop		Barbados	bb	Central America	America
-garifuna folk		Belize	bz	Central America	America
-bolero cubano		Cuba	cu	Central America	America
-cuban alternative		Cuba	cu	Central America	America
-cuban rumba		Cuba	cu	Central America	America
-cubaton		Cuba	cu	Central America	America
-guaracha		Cuba	cu	Central America	America
-jazz cubano		Cuba	cu	Central America	America
-salsa cubana		Cuba	cu	Central America	America
-trova		Cuba	cu	Central America	America
-bachata		Dominican Republic	do	Central America	America
-dominican pop		Dominican Republic	do	Central America	America
-rap dominicano		Dominican Republic	do	Central America	America
-musique guadeloupe		Guadeloupe	gp	Central America	America
-guatemalan pop		Guatemala	gt	Central America	America
-haitian gospel		Haiti	ht	Central America	America
-twoubadou		Haiti	ht	Central America	America
-haitian traditional		Haiti	ht	Central America	America
-dembow		Jamaica	jm	Central America	America
-nyahbinghi		Jamaica	jm	Central America	America
-banda		Mexico	mx	Central America	America
-cancion infantil mexicana		Mexico	mx	Central America	America
-cdmx indie		Mexico	mx	Central America	America
-chicano rap		Mexico	mx	Central America	America
-chihuahua indie		Mexico	mx	Central America	America
-corrido		Mexico	mx	Central America	America
-guadalajara indie		Mexico	mx	Central America	America
-mariachi		Mexico	mx	Central America	America
-merida indie		Mexico	mx	Central America	America
-mexican classic rock		Mexico	mx	Central America	America
-mexican edm		Mexico	mx	Central America	America
-mexican electronic		Mexico	mx	Central America	America
-mexican hip hop		Mexico	mx	Central America	America
-mexican indie		Mexico	mx	Central America	America
-mexican pop		Mexico	mx	Central America	America
-mexican rock		Mexico	mx	Central America	America
-mexican son		Mexico	mx	Central America	America
-mexican tech house		Mexico	mx	Central America	America
-norteno		Mexico	mx	Central America	America
-ranchera		Mexico	mx	Central America	America
-regional mexican		Mexico	mx	Central America	America
-regional mexican pop		Mexico	mx	Central America	America
-ska mexicano		Mexico	mx	Central America	America
-trap mexicano		Mexico	mx	Central America	America
-veracruz indie		Mexico	mx	Central America	America
-rock progresivo mexicano		Mexico	mx	Central America	America
-tijuana electronic		Mexico	mx	Central America	America
-post-punk mexicano		Mexico	mx	Central America	America
-panamanian pop		Panama	pa	Central America	America
-perreo		Puerto Rico	pr	Central America	America
-puerto rican indie		Puerto Rico	pr	Central America	America
-puerto rican pop		Puerto Rico	pr	Central America	America
-salsa puertorriquena		Puerto Rico	pr	Central America	America
-puerto rican folk		Puerto Rico	pr	Central America	America
-soca		Trinidad and Tobago	tt	Central America	America
-virgin islands reggae		Virgin Islands (U.S.)	vi	Central America	America
-beninese pop		Benin	bj	Western Africa	Africa
-burkinabe pop		Burkina Faso	bf	Western Africa	Africa
-cape verdean folk		Cabo Verde	cv	Western Africa	Africa
-morna		Cabo Verde	cv	Western Africa	Africa
-rap ivoire		Côte d'Ivoire	ci	Western Africa	Africa
-azonto		Ghana	gh	Western Africa	Africa
-azontobeats		Ghana	gh	Western Africa	Africa
-ghanaian hip hop		Ghana	gh	Western Africa	Africa
-ghanaian pop		Ghana	gh	Western Africa	Africa
-guinean pop		Guinea	gn	Western Africa	Africa
-malian blues		Mali	ml	Western Africa	Africa
-mande pop		Mali	ml	Western Africa	Africa
-malian traditional		Mali	ml	Western Africa	Africa
-senegalese traditional		Senegal	sn	Western Africa	Africa
-togolese pop		Togo	tg	Western Africa	Africa
-desert blues				Western Africa	Africa
-musique mandingue				Western Africa	Africa
-west african jazz				Western Africa	Africa
-griot				Western Africa	Africa
-tuareg guitar				Western Africa	Africa
-musique touareg				Western Africa	Africa
-western saharan folk				Western Africa	Africa
+buffalo ny indie		United States of America	us	Northern America	America
+boston metal		United States of America	us	Northern America	America
+idaho indie		United States of America	us	Northern America	America
+indiana indie		United States of America	us	Northern America	America
+florida death metal		United States of America	us	Northern America	America
+miami metal		United States of America	us	Northern America	America
+argentine alternative rock		Argentina	ar	Southern America	America
+argentine hip hop	hip hop	Argentina	ar	Southern America	America
+argentine indie	indie	Argentina	ar	Southern America	America
+argentine rock	rock	Argentina	ar	Southern America	America
+argentine telepop	pop	Argentina	ar	Southern America	America
+pop argentino		Argentina	ar	Southern America	America
+post-punk argentina		Argentina	ar	Southern America	America
+r&b argentino		Argentina	ar	Southern America	America
+ska argentino		Argentina	ar	Southern America	America
+trap argentino		Argentina	ar	Southern America	America
+folklore argentino		Argentina	ar	Southern America	America
+nuevo folklore argentino		Argentina	ar	Southern America	America
+argentine ambient		Argentina	ar	Southern America	America
+guitarra argentina		Argentina	ar	Southern America	America
+indie nordeste argentino		Argentina	ar	Southern America	America
+argentine jazz		Argentina	ar	Southern America	America
+electronica argentina		Argentina	ar	Southern America	America
+folklore boliviano		Bolivia (Plurinational State of)	bo	Southern America	America
+bolivian rock		Bolivia (Plurinational State of)	bo	Southern America	America
+afrobeat brasileiro	dance	Brazil	br	Southern America	America
+afrofuturismo brasileiro	electronic	Brazil	br	Southern America	America
+axe		Brazil	br	Southern America	America
+baile pop		Brazil	br	Southern America	America
+belo horizonte indie		Brazil	br	Southern America	America
+bossa nova		Brazil	br	Southern America	America
+bossa nova cover		Brazil	br	Southern America	America
+brasilia hip hop		Brazil	br	Southern America	America
+brazilian boogie		Brazil	br	Southern America	America
+brazilian ccm		Brazil	br	Southern America	America
+brazilian edm		Brazil	br	Southern America	America
+brazilian gospel		Brazil	br	Southern America	America
+brazilian hip hop		Brazil	br	Southern America	America
+brazilian house		Brazil	br	Southern America	America
+brazilian indie		Brazil	br	Southern America	America
+brazilian jazz		Brazil	br	Southern America	America
+brazilian metal		Brazil	br	Southern America	America
+brazilian percussion		Brazil	br	Southern America	America
+brazilian power metal		Brazil	br	Southern America	America
+brazilian progressive metal		Brazil	br	Southern America	America
+brazilian reggae		Brazil	br	Southern America	America
+brazilian rock		Brazil	br	Southern America	America
+brega funk		Brazil	br	Southern America	America
+brega romantico		Brazil	br	Southern America	America
+deep brazilian pop		Brazil	br	Southern America	America
+disney portugues brasil		Brazil	br	Southern America	America
+folk brasileiro		Brazil	br	Southern America	America
+forro		Brazil	br	Southern America	America
+funk carioca		Brazil	br	Southern America	America
+grime brasileiro		Brazil	br	Southern America	America
+indie curitibano		Brazil	br	Southern America	America
+mangue bit		Brazil	br	Southern America	America
+mpb		Brazil	br	Southern America	America
+nova mpb		Brazil	br	Southern America	America
+novos talentos brasileiros		Brazil	br	Southern America	America
+pagode baiano		Brazil	br	Southern America	America
+r&b brasileiro		Brazil	br	Southern America	America
+rap baiano		Brazil	br	Southern America	America
+rock gospel brasileiro		Brazil	br	Southern America	America
+rock nacional brasileiro		Brazil	br	Southern America	America
+salsa		Brazil	br	Southern America	America
+salsa choke		Brazil	br	Southern America	America
+samba		Brazil	br	Southern America	America
+samba de roda		Brazil	br	Southern America	America
+samba reggae		Brazil	br	Southern America	America
+sertanejo		Brazil	br	Southern America	America
+sertanejo pop		Brazil	br	Southern America	America
+sertanejo universitario		Brazil	br	Southern America	America
+trap brasileiro		Brazil	br	Southern America	America
+musica de pernambuco		Brazil	br	Southern America	America
+brazilian modern jazz		Brazil	br	Southern America	America
+brazilian post-rock		Brazil	br	Southern America	America
+musica eletronica brasileira		Brazil	br	Southern America	America
+brazilian composition		Brazil	br	Southern America	America
+piano mpb		Brazil	br	Southern America	America
+brazilian experimental		Brazil	br	Southern America	America
+chilean hardcore		Chile	cl	Southern America	America
+chilean indie		Chile	cl	Southern America	America
+pop chileno		Chile	cl	Southern America	America
+rap chileno		Chile	cl	Southern America	America
+reggaeton chileno		Chile	cl	Southern America	America
+trap chileno		Chile	cl	Southern America	America
+chilean rock		Chile	cl	Southern America	America
+nueva trova chilena		Chile	cl	Southern America	America
+jazz chileno		Chile	cl	Southern America	America
+colombian hip hop		Colombia	co	Southern America	America
+colombian indie		Colombia	co	Southern America	America
+colombian pop		Colombia	co	Southern America	America
+cumbia		Colombia	co	Southern America	America
+cumbia pop		Colombia	co	Southern America	America
+cumbia villera		Colombia	co	Southern America	America
+nu-cumbia		Colombia	co	Southern America	America
+colombian rock		Colombia	co	Southern America	America
+ecuadorian indie		Ecuador	ec	Southern America	America
+ecuadorian pop		Ecuador	ec	Southern America	America
+peruvian hip hop		Peru	pe	Southern America	America
+pop peruano		Peru	pe	Southern America	America
+salsa peruana		Peru	pe	Southern America	America
+peruvian rock		Peru	pe	Southern America	America
+nueva ola peruana		Peru	pe	Southern America	America
+peruvian indie		Peru	pe	Southern America	America
+peruvian punk		Peru	pe	Southern America	America
+cumbia peruana		Peru	pe	Southern America	America
+musica afroperuana		Peru	pe	Southern America	America
+classic peruvian pop		Peru	pe	Southern America	America
+pop paraguayo		Paraguay	py	Southern America	America
+cumbia uruguaya		Uruguay	uy	Southern America	America
+uruguayan indie		Uruguay	uy	Southern America	America
+venezuelan hip hop		Venezuela (Bolivarian Republic of)	ve	Southern America	America
+venezuelan indie		Venezuela (Bolivarian Republic of)	ve	Southern America	America
+venezuelan rock		Venezuela (Bolivarian Republic of)	ve	Southern America	America
+chicha				Southern America	America
+deep latin alternative				Southern America	America
+african reggae					Africa
+rumba congolaise		Congo	cg	Central Africa	Africa
+gabonese pop		Gabon	ga	Central Africa	Africa
+naija worship		Nigeria	ng	Central Africa	Africa
+nigerian hip hop		Nigeria	ng	Central Africa	Africa
+nigerian pop		Nigeria	ng	Central Africa	Africa
+zim urban groove		Nigeria	ng	Central Africa	Africa
+zimdancehall		Nigeria	ng	Central Africa	Africa
+ugandan pop		Uganda	ug	Central Africa	Africa
+eritrean pop		Eritrea	er	Eastern Africa	Africa
+ethio-jazz		Ethiopia	et	Eastern Africa	Africa
+ethiopian pop		Ethiopia	et	Eastern Africa	Africa
+kenyan traditional		Kenya	ke	Eastern Africa	Africa
+kenyan pop		Kenya	ke	Eastern Africa	Africa
+sudanese pop		Sudan	sd	Eastern Africa	Africa
+somali pop		Somalia	so	Eastern Africa	Africa
+musique traditionnelle comorienne		Comoros	km	Indian Ocean	Africa
+musique comorienne		Comoros	km	Indian Ocean	Africa
+reunion pop		Reunion	re	Indian Ocean	Africa
+deep rai		Algeria	dz	Northern Africa	Africa
+rai		Algeria	dz	Northern Africa	Africa
+rap algerien		Algeria	dz	Northern Africa	Africa
+algerian folk		Algeria	dz	Northern Africa	Africa
+egyptian pop		Egypt	eg	Northern Africa	Africa
+egyptian hip hop		Egypt	eg	Northern Africa	Africa
+egyptian traditional		Egypt	eg	Northern Africa	Africa
+gnawa		Morocco	ma	Northern Africa	Africa
+moroccan pop		Morocco	ma	Northern Africa	Africa
+rap tunisien		Tunisia	tn	Northern Africa	Africa
+tunisian pop		Tunisia	tn	Northern Africa	Africa
 semba		Angola	ao	Southern Africa	Africa
 lesotho traditional		Lesotho	ls	Southern Africa	Africa
-malawian folk		Malawi	mw	Southern Africa	Africa
 sega mauricien		Mauritius	mu	Southern Africa	Africa
+malawian folk		Malawi	mw	Southern Africa	Africa
 afrikaans		South Africa	za	Southern Africa	Africa
 afrikaans folk	traditional	South Africa	za	Southern Africa	Africa
 amapiano	electronic	South Africa	za	Southern Africa	Africa
@@ -1268,33 +1304,28 @@ south african rock		South Africa	za	Southern Africa	Africa
 zambian hip hop		Zambia	zm	Southern Africa	Africa
 mbira		Zimbabwe	zw	Southern Africa	Africa
 sungura		Zimbabwe	zw	Southern Africa	Africa
-deep rai		Algeria	dz	Northern Africa	Africa
-rai		Algeria	dz	Northern Africa	Africa
-rap algerien		Algeria	dz	Northern Africa	Africa
-egyptian pop		Egypt	eg	Northern Africa	Africa
-egyptian hip hop		Egypt	eg	Northern Africa	Africa
-gnawa		Morocco	ma	Northern Africa	Africa
-moroccan pop		Morocco	ma	Northern Africa	Africa
-rap tunisien		Tunisia	tn	Northern Africa	Africa
-tunisian pop		Tunisia	tn	Northern Africa	Africa
-musique traditionnelle comorienne		Comoros	km	Indian Ocean	Africa
-musique comorienne		Comoros	km	Indian Ocean	Africa
-reunion pop		Reunion	re	Indian Ocean	Africa
-eritrean pop		Eritrea	er	Eastern Africa	Africa
-ethio-jazz		Ethiopia	et	Eastern Africa	Africa
-ethiopian pop		Ethiopia	et	Eastern Africa	Africa
-kenyan traditional		Kenya	ke	Eastern Africa	Africa
-kenyan pop		Kenya	ke	Eastern Africa	Africa
-somali pop		Somalia	so	Eastern Africa	Africa
-sudanese pop		Sudan	sd	Eastern Africa	Africa
-rumba congolaise		Congo	cg	Central Africa	Africa
-naija worship		Nigeria	ng	Central Africa	Africa
-nigerian hip hop		Nigeria	ng	Central Africa	Africa
-nigerian pop		Nigeria	ng	Central Africa	Africa
-zim urban groove		Nigeria	ng	Central Africa	Africa
-zimdancehall		Nigeria	ng	Central Africa	Africa
-ugandan pop		Uganda	ug	Central Africa	Africa
-african reggae					Africa
+west african jazz				Western Africa	Africa
+griot				Western Africa	Africa
+tuareg guitar				Western Africa	Africa
+musique touareg				Western Africa	Africa
+western saharan folk				Western Africa	Africa
+burkinabe pop		Burkina Faso	bf	Western Africa	Africa
+beninese pop		Benin	bj	Western Africa	Africa
+rap ivoire		Côte d'Ivoire	ci	Western Africa	Africa
+cape verdean folk		Cabo Verde	cv	Western Africa	Africa
+morna		Cabo Verde	cv	Western Africa	Africa
+azonto		Ghana	gh	Western Africa	Africa
+azontobeats		Ghana	gh	Western Africa	Africa
+ghanaian hip hop		Ghana	gh	Western Africa	Africa
+ghanaian pop		Ghana	gh	Western Africa	Africa
+guinean pop		Guinea	gn	Western Africa	Africa
+malian blues		Mali	ml	Western Africa	Africa
+mande pop		Mali	ml	Western Africa	Africa
+malian traditional		Mali	ml	Western Africa	Africa
+senegalese traditional		Senegal	sn	Western Africa	Africa
+togolese pop		Togo	tg	Western Africa	Africa
+desert blues				Western Africa	Africa
+musique mandingue				Western Africa	Africa
 african gospel					Africa
 african electronic	electronic				Africa
 african experimental	electronic				Africa
@@ -2569,3 +2600,42 @@ classical saxophone quartet
 latin surf rock					
 ethnomusicology					
 sci-fi metal					
+paisley underground					
+gwoka					
+harmonica jazz					
+black sludge					
+virginia metal					
+voidgaze					
+kashmiri pop					
+aarhus indie					
+harmonica blues					
+metal guitar					
+psych gaze					
+dayton indie					
+experimental big band					
+acid rock					
+avant-rock					
+autonomous black metal					
+riot grrrl					
+ambient black metal					
+chaotic black metal					
+modern progressive rock					
+italo house					
+gypsy					
+klezmer					
+cinematic post-rock					
+gymcore					
+ok indie					
+halifax indie					
+cosmic american					
+miami bass					
+classical clarinet					
+swamp blues					
+boogie-woogie					
+latin soundtrack					
+theme					
+velha guarda					
+mallet					
+horrorcore					
+funky breaks					
+technical death metal					

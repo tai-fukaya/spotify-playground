@@ -3,6 +3,7 @@ data/album
 data/artist
 data/csv
 data/tsv
+data/**/*.csv
 data/**/*.tsv
 data/**/*.json
 !data/genre-data.tsv
