@@ -68,6 +68,7 @@ for i, album in enumerate(album_list):
             'uri': a.get('uri')
         }
         if title.lower() == spotify_album_title.lower():
+            # TODO アーティストが複数ある場合、AppleMusic側のartistを&で分割する必要がある。
             if artist.lower() in artists:
                 found_album_list.append(album_item)
                 is_found = True

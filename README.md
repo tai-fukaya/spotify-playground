@@ -32,6 +32,14 @@ cp _const.py.template _const.py
 地域ごとに、曲の傾向と、ジャンルの傾向を調べます。
 ## get-saved-albums.py
 自分が保存しているアルバム一覧と、ジャンル一覧を生成します。
+## am2sp.step1.search.py
+AppleMusicから取得したアルバム一覧を元に、Spotifyを検索します。
+(swift/GetAlbumListController.swiftをXCodeを使って、スマホ内で実行する必要があります。)
+## am2sp.step2.save.py
+検索結果から、任意のファイルにSpotifyでもフォローしたいアルバムをまとめ、実行すると、
+一括でフォローします。
+## get-all-genre.py
+everynoise.com のジャンル一覧を取得して、ベースとなるファイルを作成します。
 
 # TODO
 - [x] 指定地域でのチャートにランクインした楽曲一覧
@@ -43,7 +51,7 @@ cp _const.py.template _const.py
 地域ごとのアーティストの出身地の傾向
 地域ごとの楽曲のパラメーターの傾向
 - [x] 自分の登録しているアルバム一覧の取得
-- [ ] AppleMusicから、Spotifyへの移行
+- [x] AppleMusicから、Spotifyへの移行
 - [ ] 指定地域での一定期間で新しく出てきた楽曲一覧
 - [ ] 指定地域での一定期間で新しく出てきた楽曲を出身地で絞った一覧
 どこの地域で、どの曲が聞かれ始めたのかを見る
