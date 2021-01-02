@@ -9,12 +9,12 @@ echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bash_profile
 echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bash_profile
 echo 'eval "$(pyenv init -)"' >> ~/.bash_profile
 source ~/.bash_profile
+# pipenvのインストール
+
 # python 3.7 のインストール
-pyenv install 3.7.2
-pyenv local 3.7.2
+pipenv --python 3.7.2
 # pip install
-pip install spotipy --upgrade
-pip install git+https://github.com/tai-fukaya/spotipycharts --upgrade
+pipenv install
 # _const.pyのコピー
 cp _const.py.template _const.py
 # _const.pyの各変数を自分用に書き換える

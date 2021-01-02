@@ -13,3 +13,4 @@ data/**/*.json
 **/.DS_Store
 .cache-*
 _const.py
+*.log
