@@ -8,13 +8,13 @@ import _util
 
 """
 Apple Musicで保存したアルバムを、Spotifyでも保存するようにします。
-アルバム一覧の生成は、mac版itunesより「プレイリストを書き出し」で生成する
+XCodeから生成したtsvファイルを元に、Spotifyを検索します。
 ・タイトル、アーティスト名が合致したものは、found.tsvに、
 ・アーティスト名が合致しなかったものは、unmatched.tsvに、
 ・どちらも存在しなかったものは、unknown.tsvに保存されます。
 """
 
-apple_music_albums_path = 'data/apple-music/apple-music-album-list.tsv'
+apple_music_albums_path = 'data/apple-music/apple-music.tsv'
 
 found_albums_path = 'data/apple-music/found.tsv'
 unmatched_artists_path = 'data/apple-music/unmatched.tsv'
@@ -38,9 +38,9 @@ for i, album in enumerate(album_list):
     artist = album.get('artist')
     if not title:
         continue
-    # if album.get('status') in ['found', 'saved']:
-    #     continue
-    if 'status' not in album:
+    if album.get('status') in ['found', 'saved']:
+        continue
+    elif 'status' not in album:
         album['status'] = 'unknown'
     result = spotify.search(f"{title} {artist}", limit=30, type='album', market='JP')
     total = result.get('albums', {}).get('total')
@@ -65,8 +65,7 @@ for i, album in enumerate(album_list):
             'spotify_title': spotify_album_title,
             'spotify_artist': ' / '.join(artists),
             'release_date': a.get('release_date'),
-            'uri': a.get('uri'),
-            'play_count': album.get('play_count')
+            'uri': a.get('uri')
         }
         if title.lower() == spotify_album_title.lower():
             # TODO アーティストが複数ある場合、AppleMusic側のartistを&で分割する必要がある。

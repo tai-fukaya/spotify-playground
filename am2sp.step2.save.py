@@ -14,7 +14,7 @@ apple-music.tsvに保存済みフラグをつけます。
 """
 
 save_album_list_path = 'data/apple-music/save-albums.tsv'
-apple_music_album_list_path = 'data/apple-music/apple-music.tsv'
+apple_music_album_list_path = 'data/apple-music/apple-music-album-list.tsv'
 unknown_album_list_path = 'data/apple-music/no-saved-albums.tsv'
 
 user_id = _const.USER_ID

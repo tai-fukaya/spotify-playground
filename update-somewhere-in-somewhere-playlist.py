@@ -26,12 +26,12 @@ country_code = 'global'
 search_condition_list = [{
     'condition': {'area1': 'Asia'},
     'playlist_id': 'spotify:playlist:543hyxdAZrBH2su7bp6E84'
-}, {
-    'condition': {'area1': 'Africa'},
-    'playlist_id': 'spotify:playlist:7jjLPsFnsvLKk8vYwm9ZsY'
-}, {
-    'condition': {'area1': 'Middle Eastern'},
-    'playlist_id': 'spotify:playlist:2Tp8LRZvpG9t7jEcjFXfMn'
+# }, {
+#     'condition': {'area1': 'Africa'},
+#     'playlist_id': 'spotify:playlist:7jjLPsFnsvLKk8vYwm9ZsY'
+# }, {
+#     'condition': {'area1': 'Middle Eastern'},
+#     'playlist_id': 'spotify:playlist:2Tp8LRZvpG9t7jEcjFXfMn'
 }]
 
 charts_file_path = f'data/tsv/analyse-charts-{chart_type.value}-{freq_type.value}-{country_code}.tsv'

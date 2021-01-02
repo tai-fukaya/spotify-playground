@@ -21,8 +21,8 @@ track_data_path = 'data/track'
 artist_data_path = 'data/artist'
 genre_data_path = 'data/genre-data.tsv'
 
-begin_date = datetime.datetime(2019, 1, 1)
-end_date = datetime.datetime(2019, 12, 31)
+begin_date = datetime.datetime(2020, 1, 1)
+end_date = datetime.datetime(2020, 12, 31)
 
 duration = f'{begin_date.strftime("%m-%d-%Y")}--{end_date.strftime("%m-%d-%Y")}'
 dir_path = f'data/{duration}'
